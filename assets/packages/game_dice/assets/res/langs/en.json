@@ -1,0 +1,22 @@
+{
+  "jsonKey": "en手動調整",
+  "app": {
+    "loginAuthExpiredPopup": {
+      "title": "Your login has expired. \nPlease log in again."
+    }
+  },
+  "common": {
+    "login": "Log in",
+    "complete": "Done",
+    "cancel": "Cancel",
+    "close": "Close",
+    "loginFirst": "Please log in.",
+    "appName": "XQ Casino",
+    "confirm": "Confirm",
+    "futureClosed": "Function is off.",
+    "priceUnit": "$",
+    "timesUnit": "times",
+    "logout": "Log out",
+    "bindPhoneFirst": "Please connect your phone first"
+  }
+}
