@@ -1,0 +1,24 @@
+{
+    "wheel": {
+        "setup": {
+            "step": {
+                "initMount": "Initializing...",
+                "checkUpdate": "Checking for updates...",
+                "downloadingResource": "Downloading update...",
+                "deployingResource": "Verify files...",
+                "remount": "Loading settings..."
+            },
+            "downloadProgressDesc": "Current progress: {value}%",
+            "allFileProgressDesc": "All files download progress",
+            "confirm": "Confirm",
+            "errorPopup": {
+                "downloadFail": "Download update failed(r{id})",
+                "deployFail": "File verification failed(r{id})",
+                "checkUpdateFail": "Unable to connect to server",
+                "saveVersionFail": "Resource saving exception occurred",
+                "mountFail": "Initialization exception occurred",
+                "remountFail": "Loading configuration data exception occurred"
+            }
+        }
+    }
+}
