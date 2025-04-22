@@ -1,0 +1,43 @@
+{
+    "limboRes": {
+        "jsonKey": "zh_TW",
+        "common": {
+            "appName": "Quick Limbo",
+            "confirm": "確認"
+        },
+        "limbo": {
+            "targetMultiplier": "目標倍數",
+            "winChance": "獲勝機率",
+            "betAmount": "投注額",
+            "bet": "投注",
+            "profitOnWin": "獲勝利潤",
+            "gameDescription": {
+                "title": "遊戲說明",
+                "description1": "Quick Limbo 是一款線上賭場遊戲，提供無與倫比的遊戲性和一些非常大的勝利。本遊戲的最大潛在贏率為您賭金的 1,000,000倍。",
+                "description2": "基本上，遊戲以骰子為基礎，但設定略有不同，以確保沒有向上的限制，您可以從線性的遊戲場地體驗遊戲的玩法。",
+                "description3": "Quick Limbo 投注策略和技巧",
+                "description4": "我們的 Quick Limbo 博彩遊戲是一款運氣類遊戲。如上所述，所有結果都是隨機產生 。但是，遊戲比較特別，因為您可以設定賠率以及潛在的支付等級。您在管理帳戶餘額時需要考慮這些。",
+                "description5": "如果您想要更高的賠率和更低的潛在獎勵，您需要調低倍數。如果您想要贏得盡可能多的資金，則您需要提高翻倍的價值。只需確保您擁有足夠的銀行資金即可！"
+            },
+            "fairVerification": {
+                "title": "公平驗證範例",
+                "description1": "在一輪遊戲結束並顯示隨機值之後，可以使用以下的 python 程式碼來重現結果。"
+            }
+        },
+        "numberInputRangeField": {
+            "value": "值"
+        },
+        "numberInputField": {
+            "defaultHint": "未設置"
+        },
+        "userInputError": {
+            "maximum": "最大值",
+            "minimum": "最小值",
+            "bet": {
+                "invalidFormat": "投注金額不能超過您的餘額！",
+                "minimumBetAmount": "必須大於{value}。",
+                "zero": "必須大於 0。"
+            }
+        }
+    }
+}

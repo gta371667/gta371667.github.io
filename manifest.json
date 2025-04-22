@@ -1,11 +1,11 @@
 {
-    "name": "game_wheel_example",
-    "short_name": "game_wheel_example",
+    "name": "game_limbo_example",
+    "short_name": "game_limbo_example",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Demonstrates how to use the game_wheel plugin.",
+    "description": "Demonstrates how to use the game_limbo plugin.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

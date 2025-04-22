@@ -1,0 +1,49 @@
+{
+    "limboRes": {
+        "jsonKey": "en手動調整",
+        "common": {
+            "appName": "Quick Limbo",
+            "confirm": "Confirm"
+        },
+        "limbo": {
+            "targetMultiplier": "Target Multiplier",
+            "winChance": "Win Chance",
+            "betAmount": "Bet Amount",
+            "bet": "Bet",
+            "profitOnWin": "Profit on Win",
+            "gameDescription": {
+                "title": "Game Description",
+                "description1": "Happy Dice is a Having Fun game and is a simple game of chance with easy-to-understand betting mechanics for players .",
+                "description2": "Take your gambling further with our highly customisable settings.",
+                "description3": "Unlike other dice games such as Craps or Sic Bo, Happy Dice on Having Fun is a virtual throw of a 100-sided dice and is very easy to pick up.",
+                "description4": "With games like Happy Dice online, the concept is simple and the possibilities are endless with a variety of betting options available to players to help manage their bankroll and implement dice betting strategies to their gameplay.",
+                "description5": "Players can manage adjustments based on profit and loss by controling volatile betting volatility and payouts . ",
+                "description6": "Happy Dice  is provably fair, ensuring that our most popular game is Happy Dice  is a fun and fair online game experience with a 99% Return to Player (RTP) and only a 1% House Edge!",
+                "description7": "With a virtual 100-side dice to roll, players can set the Roll Over/Roll Under amount which acts as a target for players to hit and win a round - controlling the Multiplier and Win Chance during a virtual roll of the dice in a betting round.",
+                "description8": "As the name implies, if players are in Roll Over mode, the aim is for the dice to hit the value higher than the Roll Over amount. For Roll Under it is vice versa - the game aims to roll a winning number lower than the Roll Under amount.",
+                "description9": "Players can see their expected profit on a winning Dice roll with the game interface based on their betting amount (Default: Happy Point) and how high the multiplier applies on a win based on the volatility set by the Roll Over/Roll Under target.",
+                "description10": "Setting the Roll Over amount higher increases the multiplier and payout on big wins, but also decreases the odds of winning a betting round, with the amount set to 50.50 for a clean 2x multiplier by default. Roll Over and Roll Under can be toggled at any time before betting.",
+                "description11": "Example Multiplier, Roll Under/Roll Over Amount and Win Chance can be seen below:"
+            },
+            "fairVerification": {
+                "title": "Verification Example",
+                "description1": "在一輪遊戲結束並顯示隨機值之後，可以使用以下的 python 程式碼來重現結果。"
+            }
+        },
+        "numberInputRangeField": {
+            "value": "value"
+        },
+        "numberInputField": {
+            "defaultHint": "Unset"
+        },
+        "userInputError": {
+            "maximum": "maximum",
+            "minimum": "minimum",
+            "bet": {
+                "invalidFormat": "Can’t bet more than your balance！",
+                "minimumBetAmount": "This must be greater than {value}.",
+                "zero": "This must be greater than 0."
+            }
+        }
+    }
+}
