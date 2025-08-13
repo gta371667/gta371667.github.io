@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "c9cabb9ca976ddd241adb1f9cf2a0c06",
+const RESOURCES = {"flutter_bootstrap.js": "9cc16e27c1d7caccbdff33446469a3ff",
 "version.json": "c5e6c3709e0376c25c329ad0af6346a2",
 "index.html": "cc8e9edbe6950dedf97b7596037b4cfc",
 "/": "cc8e9edbe6950dedf97b7596037b4cfc",
@@ -479,7 +479,7 @@ const RESOURCES = {"flutter_bootstrap.js": "c9cabb9ca976ddd241adb1f9cf2a0c06",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "68594ba360826f33887d739a2f7305f4",
 "assets/fonts/MaterialIcons-Regular.otf": "9a3b2333ea5d4dfa54eaff2ec37f8264",
-"assets/assets/res.zip": "52cb522cae73c21ba7d8d4531b88ae3d",
+"assets/assets/res.zip": "3f010f1fecb0b88cdf0ef9d0bc42fc63",
 "assets/assets/res/imgs/dark/ic_arrow_right.png": "904c21d18c78bbadef7aaadce2eeed2f",
 "assets/assets/res/imgs/dark/ic_arrow_left.png": "0409ecc4ac5ab2044ea90929c1bcec9e",
 "assets/assets/res/imgs/dark/ic_menu_service.png": "091b9397d69e59d936da84a446eb4a21",
