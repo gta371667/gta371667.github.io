@@ -1,0 +1,2172 @@
+[
+  {
+    "code": "us",
+    "name": "美國",
+    "cnName": "美国",
+    "enName": "United States",
+    "phoneAreaCode": "+1",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "U"
+  },
+  {
+    "code": "gb",
+    "name": "英國",
+    "cnName": "英国",
+    "enName": "United Kingdom",
+    "phoneAreaCode": "+44",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "U"
+  },
+  {
+    "code": "cn",
+    "name": "中國",
+    "cnName": "中国",
+    "enName": "China",
+    "phoneAreaCode": "+86",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "af",
+    "name": "阿富汗",
+    "cnName": "阿富汗",
+    "enName": "Afghanistan",
+    "phoneAreaCode": "+93",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "al",
+    "name": "阿爾巴尼亞",
+    "cnName": "阿尔巴尼亚",
+    "enName": "Albania",
+    "phoneAreaCode": "+355",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "as",
+    "name": "阿森松島",
+    "cnName": "阿森松岛",
+    "enName": "Ascension Island",
+    "phoneAreaCode": "+247",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "dz",
+    "name": "阿爾及利亞",
+    "cnName": "阿尔及利亚",
+    "enName": "Algeria",
+    "phoneAreaCode": "+213",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "ad",
+    "name": "安道爾",
+    "cnName": "安道尔",
+    "enName": "Andorra",
+    "phoneAreaCode": "+376",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "ao",
+    "name": "安哥拉",
+    "cnName": "安哥拉",
+    "enName": "Angola",
+    "phoneAreaCode": "+244",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "ai",
+    "name": "安圭拉",
+    "cnName": "安圭拉",
+    "enName": "Anguilla",
+    "phoneAreaCode": "+1264",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "ag",
+    "name": "安提瓜和巴布達",
+    "cnName": "安提瓜和巴布達",
+    "enName": "Antigua and Barbuda",
+    "phoneAreaCode": "+1268",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "ar",
+    "name": "阿根廷",
+    "cnName": "阿根廷",
+    "enName": "Argentina",
+    "phoneAreaCode": "+54",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "am",
+    "name": "亞美尼亞",
+    "cnName": "亚美尼亚",
+    "enName": "Armenia",
+    "phoneAreaCode": "+374",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "aw",
+    "name": "荷屬阿魯巴",
+    "cnName": "荷屬阿魯巴",
+    "enName": "Aruba",
+    "phoneAreaCode": "+297",
+    "sortKey": "",
+    "sortIndexKey": "11書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "au",
+    "name": "澳大利亞",
+    "cnName": "澳大利亚",
+    "enName": "Australia",
+    "phoneAreaCode": "+61",
+    "sortKey": "",
+    "sortIndexKey": "16書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "at",
+    "name": "奥地利",
+    "cnName": "奥地利",
+    "enName": "Austria",
+    "phoneAreaCode": "+43",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "az",
+    "name": "亞塞拜然",
+    "cnName": "阿塞拜疆",
+    "enName": "Azerbaijan",
+    "phoneAreaCode": "+994",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "bs",
+    "name": "巴哈馬",
+    "cnName": "巴哈马",
+    "enName": "Bahamas",
+    "phoneAreaCode": "+1242",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bh",
+    "name": "巴林",
+    "cnName": "巴林",
+    "enName": "Bahrain",
+    "phoneAreaCode": "+973",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bd",
+    "name": "孟加拉國",
+    "cnName": "孟加拉国",
+    "enName": "Bangladesh",
+    "phoneAreaCode": "+880",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bb",
+    "name": "巴巴多斯",
+    "cnName": "巴巴多斯",
+    "enName": "Barbados",
+    "phoneAreaCode": "+1246",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "by",
+    "name": "白俄羅斯",
+    "cnName": "白俄罗斯",
+    "enName": "Belarus",
+    "phoneAreaCode": "+375",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "be",
+    "name": "比利時",
+    "cnName": "比利时",
+    "enName": "Belgium",
+    "phoneAreaCode": "+32",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bz",
+    "name": "貝里斯",
+    "cnName": "伯利兹",
+    "enName": "Belize",
+    "phoneAreaCode": "+501",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bj",
+    "name": "貝南",
+    "cnName": "贝宁",
+    "enName": "Benin",
+    "phoneAreaCode": "+229",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bm",
+    "name": "百慕達",
+    "cnName": "百慕大",
+    "enName": "Bermuda",
+    "phoneAreaCode": "+1441",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bt",
+    "name": "不丹",
+    "cnName": "不丹",
+    "enName": "Bhutan",
+    "phoneAreaCode": "+975",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bo",
+    "name": "玻利維亞",
+    "cnName": "玻利维亚",
+    "enName": "Bolivia",
+    "phoneAreaCode": "+591",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "ba",
+    "name": "波士尼亞與赫塞哥維納",
+    "cnName": "波士尼亞與赫塞哥維納",
+    "enName": "Bosnia and Herzegovina",
+    "phoneAreaCode": "+387",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bw",
+    "name": "波札那",
+    "cnName": "波札那",
+    "enName": "Botswana",
+    "phoneAreaCode": "+267",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "br",
+    "name": "巴西",
+    "cnName": "巴西",
+    "enName": "Brazil",
+    "phoneAreaCode": "+55",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "io",
+    "name": "英屬印度洋領地",
+    "cnName": "英屬印度洋領地",
+    "enName": "British Indian Ocean Territory",
+    "phoneAreaCode": "+246",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "vg",
+    "name": "英屬維京群島",
+    "cnName": "英属维京群岛",
+    "enName": "British Virgin Islands",
+    "phoneAreaCode": "+1284",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bn",
+    "name": "汶萊",
+    "cnName": "文莱",
+    "enName": "Brunei",
+    "phoneAreaCode": "+673",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bg",
+    "name": "保加利亞",
+    "cnName": "保加利亚",
+    "enName": "Bulgaria",
+    "phoneAreaCode": "+359",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bf",
+    "name": "布基納法索",
+    "cnName": "布基纳法索",
+    "enName": "Burkina Faso",
+    "phoneAreaCode": "+226",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "bi",
+    "name": "蒲隆地",
+    "cnName": "布隆迪",
+    "enName": "Burundi",
+    "phoneAreaCode": "+257",
+    "sortKey": "",
+    "sortIndexKey": "14書",
+    "enSortKey": "B"
+  },
+  {
+    "code": "kh",
+    "name": "柬埔寨",
+    "cnName": "柬埔寨",
+    "enName": "Cambodia",
+    "phoneAreaCode": "+855",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cm",
+    "name": "喀麥隆",
+    "cnName": "喀麦隆",
+    "enName": "Cameroon",
+    "phoneAreaCode": "+237",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "ca",
+    "name": "加拿大",
+    "cnName": "加拿大",
+    "enName": "Canada",
+    "phoneAreaCode": "+1",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cv",
+    "name": "維德角",
+    "cnName": "佛得角",
+    "enName": "Cape Verde",
+    "phoneAreaCode": "+238",
+    "sortKey": "",
+    "sortIndexKey": "14書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "bq",
+    "name": "荷屬加勒比區",
+    "cnName": "荷屬加勒比區",
+    "enName": "Caribbean Netherlands",
+    "phoneAreaCode": "+599",
+    "sortKey": "",
+    "sortIndexKey": "11書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "ky",
+    "name": "開曼群島",
+    "cnName": "開曼群島",
+    "enName": "Cayman Islands",
+    "phoneAreaCode": "+1345",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cf",
+    "name": "中非共和國 ",
+    "cnName": "中非共和國 ",
+    "enName": "Central African Republic",
+    "phoneAreaCode": "+236",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "td",
+    "name": "查德",
+    "cnName": "查德",
+    "enName": "Chad",
+    "phoneAreaCode": "+235",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cl",
+    "name": "智利",
+    "cnName": "智利",
+    "enName": "Chile",
+    "phoneAreaCode": "+56",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "co",
+    "name": "哥倫比亞",
+    "cnName": "哥伦比亚",
+    "enName": "Colombia",
+    "phoneAreaCode": "+57",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "km",
+    "name": "葛摩",
+    "cnName": "葛摩",
+    "enName": "Comoros",
+    "phoneAreaCode": "+269",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cd",
+    "name": "剛果-金沙薩",
+    "cnName": "刚果（金）",
+    "enName": "Congo-Kinshasa",
+    "phoneAreaCode": "+243",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cg",
+    "name": "剛果-布拉薩",
+    "cnName": "刚果（布）",
+    "enName": "Congo-Brazzaville",
+    "phoneAreaCode": "+242",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "ck",
+    "name": "庫克群島",
+    "cnName": "庫克群島",
+    "enName": "Cook Islands",
+    "phoneAreaCode": "+682",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cr",
+    "name": "哥斯大黎加",
+    "cnName": "哥斯达黎加",
+    "enName": "Costa Rica",
+    "phoneAreaCode": "+506",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "ci",
+    "name": "象牙海岸",
+    "cnName": "科特迪瓦",
+    "enName": "Côte d’Ivoire",
+    "phoneAreaCode": "+225",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "hr",
+    "name": "克羅埃西亞",
+    "cnName": "克罗地亚",
+    "enName": "Croatia",
+    "phoneAreaCode": "+385",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cy",
+    "name": "賽普勒斯",
+    "cnName": "塞浦路斯",
+    "enName": "Cyprus",
+    "phoneAreaCode": "+357",
+    "sortKey": "",
+    "sortIndexKey": "17書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "cz",
+    "name": "捷克",
+    "cnName": "捷克",
+    "enName": "Czech Republic",
+    "phoneAreaCode": "+420",
+    "sortKey": "",
+    "sortIndexKey": "11書",
+    "enSortKey": "C"
+  },
+  {
+    "code": "dk",
+    "name": "丹麥",
+    "cnName": "丹麦",
+    "enName": "Denmark",
+    "phoneAreaCode": "+45",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "D"
+  },
+  {
+    "code": "dj",
+    "name": "吉布地",
+    "cnName": "吉布提",
+    "enName": "Djibouti",
+    "phoneAreaCode": "+253",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "D"
+  },
+  {
+    "code": "dm",
+    "name": "多米尼克",
+    "cnName": "多米尼克",
+    "enName": "Dominica",
+    "phoneAreaCode": "+1",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "D"
+  },
+  {
+    "code": "do",
+    "name": "多米尼加共和國",
+    "cnName": "多米尼加共和国",
+    "enName": "Dominican Republic",
+    "phoneAreaCode": "+1809",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "D"
+  },
+  {
+    "code": "ec",
+    "name": "厄瓜多",
+    "cnName": "厄瓜多尔",
+    "enName": "Ecuador",
+    "phoneAreaCode": "+593",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "E"
+  },
+  {
+    "code": "eg",
+    "name": "埃及",
+    "cnName": "埃及",
+    "enName": "Egypt",
+    "phoneAreaCode": "+20",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "E"
+  },
+  {
+    "code": "sv",
+    "name": "薩爾瓦多",
+    "cnName": "萨尔瓦多",
+    "enName": "El Salvador",
+    "phoneAreaCode": "+503",
+    "sortKey": "",
+    "sortIndexKey": "18書",
+    "enSortKey": "E"
+  },
+  {
+    "code": "er",
+    "name": "厄利垂亞",
+    "cnName": "厄立特里亚",
+    "enName": "Eritrea",
+    "phoneAreaCode": "+291",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "E"
+  },
+  {
+    "code": "ee",
+    "name": "愛沙尼亞",
+    "cnName": "爱沙尼亚",
+    "enName": "Estonia",
+    "phoneAreaCode": "+372",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "E"
+  },
+  {
+    "code": "sz",
+    "name": "史瓦帝尼",
+    "cnName": "史瓦帝尼",
+    "enName": "Eswatini",
+    "phoneAreaCode": "+268",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "E"
+  },
+  {
+    "code": "et",
+    "name": "衣索比亞",
+    "cnName": "埃塞俄比亚",
+    "enName": "Ethiopia",
+    "phoneAreaCode": "+251",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "E"
+  },
+  {
+    "code": "fk",
+    "name": "福克蘭群島 (馬維納斯群島)",
+    "cnName": "福克蘭群島 (馬維納斯群島)",
+    "enName": "Falkland Islands",
+    "phoneAreaCode": "+500",
+    "sortKey": "",
+    "sortIndexKey": "14書",
+    "enSortKey": "F"
+  },
+  {
+    "code": "fo",
+    "name": "法羅群島",
+    "cnName": "法羅群島",
+    "enName": "Faroe Islands",
+    "phoneAreaCode": "+298",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "F"
+  },
+  {
+    "code": "fj",
+    "name": "斐濟",
+    "cnName": "斐濟",
+    "enName": "Fiji",
+    "phoneAreaCode": "+679",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "F"
+  },
+  {
+    "code": "fi",
+    "name": "芬蘭",
+    "cnName": "芬蘭",
+    "enName": "Finland",
+    "phoneAreaCode": "+358",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "F"
+  },
+  {
+    "code": "fr",
+    "name": "法國",
+    "cnName": "法国",
+    "enName": "France",
+    "phoneAreaCode": "+33",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "F"
+  },
+  {
+    "code": "gf",
+    "name": "法屬圭亞那",
+    "cnName": "法屬圭亞那",
+    "enName": "French Guiana",
+    "phoneAreaCode": "+594",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "F"
+  },
+  {
+    "code": "pf",
+    "name": "法屬玻里尼西亞",
+    "cnName": "法屬玻里尼西亞",
+    "enName": "French Polynesia",
+    "phoneAreaCode": "+689",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "F"
+  },
+  {
+    "code": "ga",
+    "name": "加彭",
+    "cnName": "加彭",
+    "enName": "Gabon",
+    "phoneAreaCode": "+241",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gm",
+    "name": "甘比亞",
+    "cnName": "甘比亞",
+    "enName": "Gambia",
+    "phoneAreaCode": "+220",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "ge",
+    "name": "喬治亞",
+    "cnName": "喬治亞",
+    "enName": "Georgia",
+    "phoneAreaCode": "+995",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "de",
+    "name": "德國",
+    "cnName": "德国",
+    "enName": "Germany",
+    "phoneAreaCode": "+49",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gh",
+    "name": "迦納",
+    "cnName": "迦納",
+    "enName": "Ghana",
+    "phoneAreaCode": "+233",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gi",
+    "name": "直布羅陀",
+    "cnName": "直布羅陀",
+    "enName": "Gibraltar",
+    "phoneAreaCode": "+350",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gr",
+    "name": "希臘",
+    "cnName": "希腊",
+    "enName": "Greece",
+    "phoneAreaCode": "+30",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gl",
+    "name": "格陵蘭",
+    "cnName": "格陵蘭",
+    "enName": "Greenland",
+    "phoneAreaCode": "+299",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gd",
+    "name": "格瑞那達",
+    "cnName": "格瑞那達",
+    "enName": "Grenada",
+    "phoneAreaCode": "+1473",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gp",
+    "name": "瓜地洛普",
+    "cnName": "瓜地洛普",
+    "enName": "Guadeloupe",
+    "phoneAreaCode": "+590",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gt",
+    "name": "瓜地馬拉",
+    "cnName": "瓜地馬拉",
+    "enName": "Guatemala",
+    "phoneAreaCode": "+502",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gn",
+    "name": "幾內亞",
+    "cnName": "幾內亞",
+    "enName": "Guinea",
+    "phoneAreaCode": "+224",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gw",
+    "name": "幾內亞比索",
+    "cnName": "幾內亞比索",
+    "enName": "Guinea-Bissau",
+    "phoneAreaCode": "+245",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "gy",
+    "name": "蓋亞那",
+    "cnName": "蓋亞那",
+    "enName": "Guyana",
+    "phoneAreaCode": "+592",
+    "sortKey": "",
+    "sortIndexKey": "14書",
+    "enSortKey": "G"
+  },
+  {
+    "code": "ht",
+    "name": "海地",
+    "cnName": "海地",
+    "enName": "Haiti",
+    "phoneAreaCode": "+509",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "H"
+  },
+  {
+    "code": "hn",
+    "name": "宏都拉斯",
+    "cnName": "宏都拉斯",
+    "enName": "Honduras",
+    "phoneAreaCode": "+504",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "H"
+  },
+  {
+    "code": "hk",
+    "name": "香港",
+    "cnName": "香港",
+    "enName": "Hong Kong",
+    "phoneAreaCode": "+852",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "H"
+  },
+  {
+    "code": "hu",
+    "name": "匈牙利",
+    "cnName": "匈牙利",
+    "enName": "Hungary",
+    "phoneAreaCode": "+36",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "H"
+  },
+  {
+    "code": "is",
+    "name": "冰島",
+    "cnName": "冰岛",
+    "enName": "Iceland",
+    "phoneAreaCode": "+354",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "I"
+  },
+  {
+    "code": "in",
+    "name": "印度",
+    "cnName": "印度",
+    "enName": "India",
+    "phoneAreaCode": "+91",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "I"
+  },
+  {
+    "code": "id",
+    "name": "印尼",
+    "cnName": "印度尼西亚",
+    "enName": "Indonesia",
+    "phoneAreaCode": "+62",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "I"
+  },
+  {
+    "code": "iq",
+    "name": "伊拉克",
+    "cnName": "伊拉克",
+    "enName": "Iraq",
+    "phoneAreaCode": "+964",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "I"
+  },
+  {
+    "code": "ie",
+    "name": "愛爾蘭",
+    "cnName": "爱尔兰",
+    "enName": "Ireland",
+    "phoneAreaCode": "+353",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "I"
+  },
+  {
+    "code": "il",
+    "name": "以色列",
+    "cnName": "以色列",
+    "enName": "Israel",
+    "phoneAreaCode": "+972",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "I"
+  },
+  {
+    "code": "it",
+    "name": "義大利",
+    "cnName": "意大利",
+    "enName": "Italy",
+    "phoneAreaCode": "+39",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "I"
+  },
+  {
+    "code": "jp",
+    "name": "日本",
+    "cnName": "日本",
+    "enName": "Japan",
+    "phoneAreaCode": "+81",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "J"
+  },
+  {
+    "code": "jo",
+    "name": "約旦",
+    "cnName": "約旦",
+    "enName": "Jordan",
+    "phoneAreaCode": "+962",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "J"
+  },
+  {
+    "code": "jm",
+    "name": "牙買加",
+    "cnName": "牙買加",
+    "enName": "Jamaica",
+    "phoneAreaCode": "+1876",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "J"
+  },
+  {
+    "code": "kz",
+    "name": "哈薩克斯坦",
+    "cnName": "哈薩克斯坦",
+    "enName": "Kazakhstan",
+    "phoneAreaCode": "+7",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "K"
+  },
+  {
+    "code": "ke",
+    "name": "肯亞",
+    "cnName": "肯亞",
+    "enName": "Kenya",
+    "phoneAreaCode": "+254",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "K"
+  },
+  {
+    "code": "ki",
+    "name": "吉里巴斯",
+    "cnName": "吉里巴斯",
+    "enName": "Kiribati",
+    "phoneAreaCode": "+686",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "K"
+  },
+  {
+    "code": "xk",
+    "name": "科索沃",
+    "cnName": "科索沃",
+    "enName": "Kosovo",
+    "phoneAreaCode": "+383",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "K"
+  },
+  {
+    "code": "kw",
+    "name": "科威特",
+    "cnName": "科威特",
+    "enName": "Kuwait",
+    "phoneAreaCode": "+965",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "K"
+  },
+  {
+    "code": "kg",
+    "name": "吉爾吉斯",
+    "cnName": "吉爾吉斯",
+    "enName": "Kyrgyzstan",
+    "phoneAreaCode": "+996",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "K"
+  },
+  {
+    "code": "la",
+    "name": "寮國",
+    "cnName": "老挝",
+    "enName": "Laos",
+    "phoneAreaCode": "+856",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "lv",
+    "name": "拉脫維亞",
+    "cnName": "拉脫維亞",
+    "enName": "Latvia",
+    "phoneAreaCode": "+371",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "lb",
+    "name": "黎巴嫩",
+    "cnName": "黎巴嫩",
+    "enName": "Lebanon",
+    "phoneAreaCode": "+961",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "ls",
+    "name": "賴索托",
+    "cnName": "賴索托",
+    "enName": "Lesotho",
+    "phoneAreaCode": "+266",
+    "sortKey": "",
+    "sortIndexKey": "16書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "lr",
+    "name": "賴比瑞亞",
+    "cnName": "賴比瑞亞",
+    "enName": "Liberia",
+    "phoneAreaCode": "+231",
+    "sortKey": "",
+    "sortIndexKey": "16書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "ly",
+    "name": "利比亞",
+    "cnName": "利比亞",
+    "enName": "Libya",
+    "phoneAreaCode": "+218",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "li",
+    "name": "列支敦斯登",
+    "cnName": "列支敦斯登",
+    "enName": "Liechtenstein",
+    "phoneAreaCode": "+423",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "lt",
+    "name": "立陶宛",
+    "cnName": "立陶宛",
+    "enName": "Lithuania",
+    "phoneAreaCode": "+370",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "lu",
+    "name": "盧森堡",
+    "cnName": "卢森堡",
+    "enName": "Luxembourg",
+    "phoneAreaCode": "+352",
+    "sortKey": "",
+    "sortIndexKey": "16書",
+    "enSortKey": "L"
+  },
+  {
+    "code": "mo",
+    "name": " 澳門",
+    "cnName": " 澳門",
+    "enName": "Macau",
+    "phoneAreaCode": "+853",
+    "sortKey": "",
+    "sortIndexKey": "16書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mg",
+    "name": "馬達加斯加",
+    "cnName": "馬達加斯加",
+    "enName": "Madagascar",
+    "phoneAreaCode": "+261",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mw",
+    "name": "馬拉威",
+    "cnName": "馬拉威",
+    "enName": "Malawi",
+    "phoneAreaCode": "+265",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "my",
+    "name": "馬來西亞",
+    "cnName": "马来西亚",
+    "enName": "Malaysia",
+    "phoneAreaCode": "+60",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mv",
+    "name": "馬爾地夫",
+    "cnName": "馬爾地夫",
+    "enName": "Maldives",
+    "phoneAreaCode": "+960",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "ml",
+    "name": "馬利",
+    "cnName": "馬利",
+    "enName": "Mali",
+    "phoneAreaCode": "+223",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mt",
+    "name": "馬爾他",
+    "cnName": "馬爾他",
+    "enName": "Malta",
+    "phoneAreaCode": "+356",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mq",
+    "name": "馬丁尼克",
+    "cnName": "馬丁尼克",
+    "enName": "Martinique",
+    "phoneAreaCode": "+596",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mr",
+    "name": "茅利塔尼亞",
+    "cnName": "茅利塔尼亞",
+    "enName": "Mauritania",
+    "phoneAreaCode": "+222",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mu",
+    "name": "模里西斯",
+    "cnName": "模里西斯",
+    "enName": "Mauritius",
+    "phoneAreaCode": "+230",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mx",
+    "name": "墨西哥",
+    "cnName": "墨西哥",
+    "enName": "Mexico",
+    "phoneAreaCode": "+52",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "fm",
+    "name": "密克羅尼西亞",
+    "cnName": "密克羅尼西亞",
+    "enName": "Micronesia",
+    "phoneAreaCode": "+691",
+    "sortKey": "",
+    "sortIndexKey": "11書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "md",
+    "name": "摩爾多瓦",
+    "cnName": "摩爾多瓦",
+    "enName": "Moldova",
+    "phoneAreaCode": "+373",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mc",
+    "name": "摩納哥",
+    "cnName": "摩纳哥",
+    "enName": "Monaco",
+    "phoneAreaCode": "+377",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mn",
+    "name": "蒙古",
+    "cnName": "蒙古",
+    "enName": "Mongolia",
+    "phoneAreaCode": "+976",
+    "sortKey": "",
+    "sortIndexKey": "14書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "me",
+    "name": "蒙特內哥羅",
+    "cnName": "蒙特內哥羅",
+    "enName": "Montenegro",
+    "phoneAreaCode": "+382",
+    "sortKey": "",
+    "sortIndexKey": "14書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "ms",
+    "name": "蒙特塞拉特",
+    "cnName": "蒙特塞拉特",
+    "enName": "Montserrat",
+    "phoneAreaCode": "+1664",
+    "sortKey": "",
+    "sortIndexKey": "14書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "ma",
+    "name": "摩洛哥",
+    "cnName": "摩洛哥",
+    "enName": "Morocco",
+    "phoneAreaCode": "+212",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mz",
+    "name": "莫三比克",
+    "cnName": "莫三比克",
+    "enName": "Mozambique",
+    "phoneAreaCode": "+258",
+    "sortKey": "",
+    "sortIndexKey": "11書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "mm",
+    "name": "緬甸",
+    "cnName": "缅甸",
+    "enName": "Myanmar",
+    "phoneAreaCode": "+95",
+    "sortKey": "",
+    "sortIndexKey": "15書",
+    "enSortKey": "M"
+  },
+  {
+    "code": "na",
+    "name": "納米比亞",
+    "cnName": "納米比亞",
+    "enName": "Namibia",
+    "phoneAreaCode": "+264",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "nr",
+    "name": "諾魯",
+    "cnName": "諾魯",
+    "enName": "Nauru",
+    "phoneAreaCode": "+674",
+    "sortKey": "",
+    "sortIndexKey": "16書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "np",
+    "name": "尼泊爾",
+    "cnName": "尼泊尔",
+    "enName": "Nepal",
+    "phoneAreaCode": "+977",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "nl",
+    "name": "荷蘭",
+    "cnName": "荷兰",
+    "enName": "Netherlands",
+    "phoneAreaCode": "+31",
+    "sortKey": "",
+    "sortIndexKey": "11書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "nc",
+    "name": "新喀里多尼亞",
+    "cnName": "新喀里多尼亞",
+    "enName": "New Caledonia",
+    "phoneAreaCode": "+687",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "ni",
+    "name": "尼加拉瓜",
+    "cnName": "尼加拉瓜",
+    "enName": "Nicaragua",
+    "phoneAreaCode": "+505",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "ne",
+    "name": "尼日",
+    "cnName": "尼日",
+    "enName": "Niger",
+    "phoneAreaCode": "+227",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "ng",
+    "name": "奈及利亞",
+    "cnName": "奈及利亞",
+    "enName": "Nigeria",
+    "phoneAreaCode": "+234",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "nu",
+    "name": "紐埃島",
+    "cnName": "紐埃島",
+    "enName": "Niue",
+    "phoneAreaCode": "+683",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "nf",
+    "name": "諾福克島",
+    "cnName": "諾福克島",
+    "enName": "Norfolk Island",
+    "phoneAreaCode": "+672",
+    "sortKey": "",
+    "sortIndexKey": "16書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "mk",
+    "name": "北馬其頓",
+    "cnName": "北馬其頓",
+    "enName": "North Macedonia",
+    "phoneAreaCode": "+389",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "no",
+    "name": "挪威",
+    "cnName": "挪威",
+    "enName": "Norway",
+    "phoneAreaCode": "+47",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "nz",
+    "name": "紐西蘭",
+    "cnName": "紐西蘭",
+    "enName": "New Zealand",
+    "phoneAreaCode": "+64",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "N"
+  },
+  {
+    "code": "om",
+    "name": "阿曼",
+    "cnName": "阿曼",
+    "enName": "Oman",
+    "phoneAreaCode": "+968",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "O"
+  },
+  {
+    "code": "pk",
+    "name": "巴基斯坦",
+    "cnName": "巴基斯坦",
+    "enName": "Pakistan",
+    "phoneAreaCode": "+92",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "pw",
+    "name": "帕勞",
+    "cnName": "帕勞",
+    "enName": "Palau",
+    "phoneAreaCode": "+680",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "pa",
+    "name": "巴拿馬",
+    "cnName": "巴拿馬",
+    "enName": "Panama",
+    "phoneAreaCode": "+507",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "pg",
+    "name": "巴布亞紐幾內亞",
+    "cnName": "巴布亞紐幾內亞",
+    "enName": "Papua New Guinea",
+    "phoneAreaCode": "+675",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "py",
+    "name": "巴拉圭",
+    "cnName": "巴拉圭",
+    "enName": "Paraguay",
+    "phoneAreaCode": "+595",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "pe",
+    "name": "秘魯",
+    "cnName": "秘魯",
+    "enName": "Peru",
+    "phoneAreaCode": "+51",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "ph",
+    "name": "菲律賓",
+    "cnName": "菲律宾",
+    "enName": "Philippines",
+    "phoneAreaCode": "+63",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "pl",
+    "name": "波蘭",
+    "cnName": "波兰",
+    "enName": "Poland",
+    "phoneAreaCode": "+48",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "pt",
+    "name": "葡萄牙",
+    "cnName": "葡萄牙",
+    "enName": "Portugal",
+    "phoneAreaCode": "+351",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "pr",
+    "name": "波多黎各",
+    "cnName": "波多黎各",
+    "enName": "Puerto Rico",
+    "phoneAreaCode": "+1",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "P"
+  },
+  {
+    "code": "qa",
+    "name": "卡達",
+    "cnName": "卡達",
+    "enName": "Qatar",
+    "phoneAreaCode": "+974",
+    "sortKey": "",
+    "sortIndexKey": "4書",
+    "enSortKey": "Q"
+  },
+  {
+    "code": "re",
+    "name": "留尼汪",
+    "cnName": "留尼汪",
+    "enName": "Réunion",
+    "phoneAreaCode": "+262",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "R"
+  },
+  {
+    "code": "ro",
+    "name": "羅馬尼",
+    "cnName": "羅馬尼",
+    "enName": "Romania",
+    "phoneAreaCode": "+40",
+    "sortKey": "",
+    "sortIndexKey": "19書",
+    "enSortKey": "R"
+  },
+  {
+    "code": "ru",
+    "name": "俄羅斯",
+    "cnName": "俄罗斯",
+    "enName": "Russia",
+    "phoneAreaCode": "+7",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "R"
+  },
+  {
+    "code": "rw",
+    "name": "盧安達",
+    "cnName": "盧安達",
+    "enName": "Rwanda",
+    "phoneAreaCode": "+250",
+    "sortKey": "",
+    "sortIndexKey": "16書",
+    "enSortKey": "R"
+  },
+  {
+    "code": "sh",
+    "name": "聖赫勒拿",
+    "cnName": "聖赫勒拿",
+    "enName": "Saint Helena",
+    "phoneAreaCode": "+290",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "kn",
+    "name": "聖基茨和尼維斯",
+    "cnName": "聖基茨和尼維斯",
+    "enName": "Saint Kitts and Nevis",
+    "phoneAreaCode": "+1869",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "lc",
+    "name": "聖盧西亞",
+    "cnName": "聖盧西亞",
+    "enName": "Saint Lucia",
+    "phoneAreaCode": "+1758",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "pm",
+    "name": "聖皮埃與密克隆群島",
+    "cnName": "聖皮埃與密克隆群島",
+    "enName": "Saint Pierre and Miquelon",
+    "phoneAreaCode": "+508",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "vc",
+    "name": "聖文森及格瑞那丁",
+    "cnName": "聖文森及格瑞那丁",
+    "enName": "Saint Vincent and the Grenadines",
+    "phoneAreaCode": "+1784",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "as",
+    "name": "美屬薩摩亞",
+    "cnName": "美屬薩摩亞",
+    "enName": "American Samoa",
+    "phoneAreaCode": "+1684",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "A"
+  },
+  {
+    "code": "sm",
+    "name": "聖馬利諾",
+    "cnName": "聖馬利諾",
+    "enName": "San Marino",
+    "phoneAreaCode": "+378",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "st",
+    "name": "聖多美普林西比",
+    "cnName": "聖多美普林西比",
+    "enName": "São Tomé and Príncipe",
+    "phoneAreaCode": "+239",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "sa",
+    "name": "沙烏地阿拉伯",
+    "cnName": "沙特阿拉伯",
+    "enName": "Saudi Arabia",
+    "phoneAreaCode": "+966",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "sn",
+    "name": "塞內加爾",
+    "cnName": "塞內加爾",
+    "enName": "Senegal",
+    "phoneAreaCode": "+221",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "rs",
+    "name": "塞爾維亞",
+    "cnName": "塞爾維亞",
+    "enName": "Serbia",
+    "phoneAreaCode": "+381",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "sc",
+    "name": "塞席爾",
+    "cnName": "塞席爾",
+    "enName": "Seychelles",
+    "phoneAreaCode": "+248",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "sl",
+    "name": "獅子山",
+    "cnName": "獅子山",
+    "enName": "Sierra Leone",
+    "phoneAreaCode": "+232",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "sg",
+    "name": "新加坡",
+    "cnName": "新加坡",
+    "enName": "Singapore",
+    "phoneAreaCode": "+65",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "sk",
+    "name": "斯洛伐克",
+    "cnName": "斯洛伐克",
+    "enName": "Slovakia",
+    "phoneAreaCode": "+421",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "si",
+    "name": "斯洛維尼亞",
+    "cnName": "斯洛文尼亚",
+    "enName": "Slovenia",
+    "phoneAreaCode": "+386",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "sb",
+    "name": "索羅門群島",
+    "cnName": "索羅門群島",
+    "enName": "Solomon Islands",
+    "phoneAreaCode": "+677",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "so",
+    "name": "索馬利亞",
+    "cnName": "索馬利亞",
+    "enName": "Somalia",
+    "phoneAreaCode": "+252",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "za",
+    "name": "南非",
+    "cnName": "南非",
+    "enName": "South Africa",
+    "phoneAreaCode": "+27",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "kr",
+    "name": "韩国",
+    "cnName": "韩国",
+    "enName": "South Korea",
+    "phoneAreaCode": "+82",
+    "sortKey": "",
+    "sortIndexKey": "17書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "es",
+    "name": "西班牙",
+    "cnName": "西班牙",
+    "enName": "Spain",
+    "phoneAreaCode": "+34",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "lk",
+    "name": "斯里蘭卡",
+    "cnName": "斯里蘭卡",
+    "enName": "Sri Lanka",
+    "phoneAreaCode": "+94",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "sr",
+    "name": "蘇利南",
+    "cnName": "蘇利南",
+    "enName": "Suriname",
+    "phoneAreaCode": "+597",
+    "sortKey": "",
+    "sortIndexKey": "20書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "se",
+    "name": "瑞典",
+    "cnName": "瑞典",
+    "enName": "Sweden",
+    "phoneAreaCode": "+46",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "ch",
+    "name": "瑞士",
+    "cnName": "瑞士",
+    "enName": "Switzerland",
+    "phoneAreaCode": "+41",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "S"
+  },
+  {
+    "code": "tw",
+    "name": "台灣",
+    "cnName": "台湾",
+    "enName": "Taiwan",
+    "phoneAreaCode": "+886",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tj",
+    "name": "塔吉克",
+    "cnName": "塔吉克",
+    "enName": "Tajikistan",
+    "phoneAreaCode": "+992",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tz",
+    "name": "坦尚尼亞",
+    "cnName": "坦尚尼亞",
+    "enName": "Tanzania",
+    "phoneAreaCode": "+255",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "th",
+    "name": "泰國",
+    "cnName": "泰国",
+    "enName": "Thailand",
+    "phoneAreaCode": "+66",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tl",
+    "name": "東帝汶",
+    "cnName": "東帝汶",
+    "enName": "Timor-Leste",
+    "phoneAreaCode": "+670",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tg",
+    "name": "多哥",
+    "cnName": "多哥",
+    "enName": "Togo",
+    "phoneAreaCode": "+228",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tk",
+    "name": "托克勞群島",
+    "cnName": "托克勞群島",
+    "enName": "Tokelau",
+    "phoneAreaCode": "+690",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "to",
+    "name": "東加",
+    "cnName": "東加",
+    "enName": "Tonga",
+    "phoneAreaCode": "+676",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tt",
+    "name": "千里達及托巴哥",
+    "cnName": "千里達及托巴哥",
+    "enName": "Trinidad and Tobago",
+    "phoneAreaCode": "+1868",
+    "sortKey": "",
+    "sortIndexKey": "3書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tn",
+    "name": "突尼西亞",
+    "cnName": "突尼西亞",
+    "enName": "Tunisia",
+    "phoneAreaCode": "+216",
+    "sortKey": "",
+    "sortIndexKey": "9書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tr",
+    "name": "土耳其",
+    "cnName": "土耳其",
+    "enName": "Turkey",
+    "phoneAreaCode": "+90",
+    "sortKey": "",
+    "sortIndexKey": "3書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tm",
+    "name": "土庫曼",
+    "cnName": "土庫曼",
+    "enName": "Turkmenistan",
+    "phoneAreaCode": "+993",
+    "sortKey": "",
+    "sortIndexKey": "3書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tc",
+    "name": "土克斯及開科斯群島",
+    "cnName": "土克斯及開科斯群島",
+    "enName": "Turks and Caicos Islands",
+    "phoneAreaCode": "+1649",
+    "sortKey": "",
+    "sortIndexKey": "3書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "tv",
+    "name": "吐瓦魯",
+    "cnName": "吐瓦魯",
+    "enName": "Tuvalu",
+    "phoneAreaCode": "+688",
+    "sortKey": "",
+    "sortIndexKey": "6書",
+    "enSortKey": "T"
+  },
+  {
+    "code": "ug",
+    "name": "烏干達",
+    "cnName": "烏干達",
+    "enName": "Uganda",
+    "phoneAreaCode": "+256",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "U"
+  },
+  {
+    "code": "ua",
+    "name": "烏克蘭",
+    "cnName": "乌克兰",
+    "enName": "Ukraine",
+    "phoneAreaCode": "+380",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "U"
+  },
+  {
+    "code": "ae",
+    "name": "阿拉伯聯合大公國",
+    "cnName": "阿拉伯联合酋长国",
+    "enName": "United Arab Emirates",
+    "phoneAreaCode": "+971",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "U"
+  },
+  {
+    "code": "uy",
+    "name": "烏拉圭",
+    "cnName": "烏拉圭",
+    "enName": "Uruguay",
+    "phoneAreaCode": "+598",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "U"
+  },
+  {
+    "code": "uz",
+    "name": "烏茲別克",
+    "cnName": "烏茲別克",
+    "enName": "Uzbekistan",
+    "phoneAreaCode": "+998",
+    "sortKey": "",
+    "sortIndexKey": "10書",
+    "enSortKey": "U"
+  },
+  {
+    "code": "vu",
+    "name": "萬那杜",
+    "cnName": "萬那杜",
+    "enName": "Vanuatu",
+    "phoneAreaCode": "+678",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "V"
+  },
+  {
+    "code": "ve",
+    "name": "委內瑞拉",
+    "cnName": "委內瑞拉",
+    "enName": "Venezuela",
+    "phoneAreaCode": "+58",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "V"
+  },
+  {
+    "code": "vn",
+    "name": "越南",
+    "cnName": "越南",
+    "enName": "Vietnam",
+    "phoneAreaCode": "+84",
+    "sortKey": "",
+    "sortIndexKey": "12書",
+    "enSortKey": "V"
+  },
+  {
+    "code": "wf",
+    "name": "瓦利斯群島和富圖那群島",
+    "cnName": "瓦利斯群島和富圖那群島",
+    "enName": "Wallis and Futuna",
+    "phoneAreaCode": "+681",
+    "sortKey": "",
+    "sortIndexKey": "5書",
+    "enSortKey": "W"
+  },
+  {
+    "code": "ye",
+    "name": "葉門",
+    "cnName": "葉門",
+    "enName": "Yemen",
+    "phoneAreaCode": "+967",
+    "sortKey": "",
+    "sortIndexKey": "13書",
+    "enSortKey": "Y"
+  },
+  {
+    "code": "zm",
+    "name": "尚比亞",
+    "cnName": "赞比亚",
+    "enName": "Zambia",
+    "phoneAreaCode": "+260",
+    "sortKey": "",
+    "sortIndexKey": "8書",
+    "enSortKey": "Z"
+  },
+  {
+    "code": "zw",
+    "name": "辛巴威",
+    "cnName": "津巴布韦",
+    "enName": "Zimbabwe",
+    "phoneAreaCode": "+263",
+    "sortKey": "",
+    "sortIndexKey": "7書",
+    "enSortKey": "Z"
+  }
+]

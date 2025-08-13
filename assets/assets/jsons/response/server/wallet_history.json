@@ -1,0 +1,49 @@
+{
+  "code": "0",
+  "data": {
+    "total": 0,
+    "result": [
+      {
+        "purchaseOrderId": 0,
+        "userId": 0,
+        "user": {
+          "createTime": "2025-06-23T02:23:52.696Z",
+          "updateTime": "2025-06-23T02:23:52.696Z",
+          "userId": 0,
+          "no": "string",
+          "status": "string",
+          "username": "string",
+          "password": "string",
+          "mobile": "string",
+          "email": "string",
+          "birthday": "2025-06-23T02:23:52.696Z",
+          "userBalance": {
+            "createTime": "2025-06-23T02:23:52.696Z",
+            "updateTime": "2025-06-23T02:23:52.696Z",
+            "userId": 0,
+            "balance": 0.0
+          },
+          "userActivity": [
+            {
+              "createTime": "2025-06-23T02:23:52.696Z",
+              "updateTime": "2025-06-23T02:23:52.696Z",
+              "userActivityId": 0,
+              "userId": 0,
+              "no": "string",
+              "itemType": "string",
+              "item": "string",
+              "point": 0.0,
+              "balance": 0.0
+            }
+          ]
+        },
+        "no": "string",
+        "status": "string",
+        "point": 0.0,
+        "amount": 0.0,
+        "createTime": "2025-06-23T02:23:52.696Z",
+        "updateTime": "2025-06-23T02:23:52.696Z"
+      }
+    ]
+  }
+}

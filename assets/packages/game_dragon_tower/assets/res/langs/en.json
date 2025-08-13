@@ -1,0 +1,53 @@
+{
+    "dragonTowerRes": {
+        "jsonKey": "en手動調整",
+        "common": {
+            "appName": "Amazing Mines",
+            "confirm": "Confirm",
+            "cancel": "Cancel"
+        },
+        "main": {
+            "difficulty": {
+                "title": "Difficulty",
+                "easy": "Easy",
+                "medium": "Medium",
+                "hard": "Hard",
+                "expert": "Expert",
+                "master": "Master"
+            },
+            "description": {
+                "title": "Game Description",
+                "contentTitle1": "What is Super Hunter?",
+                "content2": "Super Hunter is a casino game with an hunter theme. It’s an exciting game offering a super straightforward gameplay experience, giving you a chance to progress through the game while unlocking some big multipliers along the way.",
+                "contentTitle3": "How to Play Super Hunter",
+                "content4": "The first thing to decide before playing Super Hunter is how much you would like to bet per game, considering the permitted betting limits.",
+                "content5": "The game is unique in many respects, and you can even set the level of difficulty for the gameplay, choosing easy, medium, hard, expert, or master.",
+                "content6": "The aim of the game is to guess which tiles in each row the preys will appear. If you guess correctly, you can earn an instant payout or move up to the next level, unlocking multipliers as you go.",
+                "content7": "You can pick the boxes yourself or activate the auto-pick feature to do it for you. This is a provably fair game with a unique gameplay experience."
+            },
+            "bet": "Bet",
+            "autoSelect": "Pick random tiles",
+            "betAmount": "Bet Amount",
+            "betAmountHint": "Minimum {min}",
+            "halfBet": "½",
+            "doubleBet": "2x",
+            "betRangeError": {
+                "mustInteger": "Must be integer.",
+                "mustPositive": "This must be greater than 0.",
+                "mustLessThanBalance": "Can’t bet more than your balance！"
+            },
+            "bombCountTitle": "Mines",
+            "gemCountTitle": "Gems",
+            "settle": "Cashout",
+            "winProfit": "Profit on Win({odds}x)"
+        },
+        "asset": {
+            "cada": "ADA",
+            "cbtc": "BTC",
+            "ceth": "ETH",
+            "ch": "H Point",
+            "cusd": "USD",
+            "cusdt": "USDT"
+        }
+    }
+}

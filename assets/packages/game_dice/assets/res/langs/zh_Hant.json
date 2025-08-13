@@ -1,0 +1,51 @@
+{
+    "diceRes": {
+        "jsonKey": "zh_TW",
+        "common": {
+            "appName": "Happy Dice",
+            "confirm": "確認"
+        },
+        "dice": {
+            "rollUnder": "擲點數小於",
+            "rollOver": "擲點數大於",
+            "multiplier": "倍數",
+            "winChance": "獲勝機率",
+            "betAmount": "投注額",
+            "bet": "投注",
+            "profitOnWin": "獲勝利潤",
+            "gameDescription": {
+                "title": "遊戲說明",
+                "description1": "Happy Dice 是一款 Having Fun 遊戲，其投注玩法簡單易懂，玩家可盡情享受這款遊戲。",
+                "description2": "透過各類不同的配置，Happy Dice 一定可以滿足各種類型的線上玩家！",
+                "description3": "與其他骰子遊戲（如花旗骰或骰寶）不同， Happy Dice 的骰子遊戲是一種虛擬的 100 面骰子遊戲，而且非常容易上手。",
+                "description4": "對於像 Happy Dice 這樣的線上遊戲來說，遊戲的概念很簡單，但遊戲中的可能性無窮無盡。玩家可以透過各種投注選項管理自己的資金，並在遊戲中採取合適的 Happy Dice 投注策略。",
+                "description5": "玩家可以控制投注的波動性和賠率，並根據遊戲的盈虧情況進行調整。",
+                "description6": "Happy Dice 可以驗證公平性。我們最受歡迎的遊戲——Happy Dice 可以帶來有趣且公平的線上遊戲體驗，其玩家回報率 (RTP) 高達 99%，而莊家優勢僅為 1%！",
+                "description7": "Happy Dice 透過虛擬的 100 面骰子，玩家可以設定「擲大/擲小」的金額作為玩家猜中結果並贏得一輪遊戲的目標——在虛擬擲骰子的投注回合中控制倍率和獲勝機率。",
+                "description8": "顧名思義，如果玩家進入「擲大」模式，遊戲目標就是讓骰子命中的數值高於「擲大」金額。而「擲小」則相反，遊戲的目標是擲出一個低於「擲小」金額的獲勝數。",
+                "description9": "玩家可以根據自己的投注額(預設：Happy Point)，在遊戲介面上查看擲骰子獲勝後的預期利潤，以及根據「擲大/擲小」目標設定的波動性查看獲勝後的倍率大小。",
+                "description10": "將「擲大」金額設定得更高可提高倍率和大額贏利的賠率，但也會降低贏得投注回合的機率，設定時預設為 50.50 以及 2 倍的倍率。投注前可隨時切換「擲大」和「擲小」。",
+                "description11": "倍率、擲大/擲小金額和獲勝機率示例如下："
+            },
+            "fairVerification": {
+                "title": "公平驗證範例",
+                "description1": "在一輪遊戲結束並顯示隨機值之後，可以使用以下的 python 程式碼來重現結果。"
+            }
+        },
+        "numberInputRangeField": {
+            "value": "值"
+        },
+        "numberInputField": {
+            "defaultHint": "未設置"
+        },
+        "userInputError": {
+            "maximum": "最大值",
+            "minimum": "最小值",
+            "bet": {
+                "invalidFormat": "投注金額不能超過您的餘額！",
+                "minimumBetAmount": "必須大於{value}。",
+                "zero": "必須大於 0。"
+            }
+        }
+    }
+}

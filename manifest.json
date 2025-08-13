@@ -1,11 +1,11 @@
 {
-    "name": "game_limbo_example",
-    "short_name": "game_limbo_example",
+    "name": "xq_recreation",
+    "short_name": "xq_recreation",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Demonstrates how to use the game_limbo plugin.",
+    "description": "娛樂城",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

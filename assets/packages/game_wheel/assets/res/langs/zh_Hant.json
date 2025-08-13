@@ -1,0 +1,60 @@
+{
+    "wheelRes": {
+        "jsonKey": "zh手動調整",
+        "common": {
+            "appName": "Wheel of Fortune",
+            "complete": "完成",
+            "cancel": "取消",
+            "close": "關閉",
+            "loginFirst": "請先登入",
+            "confirm": "確認",
+            "futureClosed": "功能關閉中",
+            "priceUnit": "$",
+            "timesUnit": "次",
+            "logout": "登出",
+            "bindPhoneFirst": "請先綁定手機"
+        },
+        "wheel": {
+            "betAmount": "投注額",
+            "bet": "投注",
+            "risk": "風險",
+            "riskHint": "請選擇風險",
+            "segments": "區塊",
+            "segmentsHint": "請選擇區塊",
+            "high": "高等",
+            "medium": "中等",
+            "low": "低等",
+            "gameDescription": {
+                "title": "遊戲說明",
+                "risk": "風險",
+                "segments": "區塊",
+                "maxWin": "最大勝利",
+                "description1": "設定您的風險等級、選擇區塊數量，然後轉動轉輪，就有機會贏得豐厚的倍數獎金。",
+                "description2": "Wheel of Fortune 是一款玩法簡單，以大轉輪的旋轉為基礎。如果轉輪轉得對您有利，您就有機會獲得最高 49.50 倍投注額的獎金。",
+                "description3": "如何玩 Wheel of Fortune 及遊戲玩法",
+                "description4": "要玩 Wheel of Fortune ，您必須先建立帳戶。這只需要幾分鐘，然後您就可以存入資金開始遊戲。",
+                "description5": "遊戲有 2 個主要部分：風險設定和區塊數。下注之前，您需要決定風險，選擇低、中或高風險。您也需要選擇遊戲中的區塊數。，可從 10、20、30、40 或 50 中選擇。",
+                "description6": "根據不同的設定，輪轉本身有不同顏色的區段。螢幕下方的倍數會顯示如果這些區段出現，您可以贏多少錢。",
+                "description7": "最後，在選擇之後，輸入您的賭金金額，然後按下「下注」按鈕來轉動轉盤。",
+                "description8": "賠率表",
+                "description9": "Wheel of Fortune 作為遊戲的主格子，當它停止旋轉時，可以落在任何顏色的區段上。",
+                "description10": "以下是根據所選的風險和區段而得出的最大勝利總覽："
+            },
+            "verificationExample": {
+                "title": "驗證範例",
+                "description1": "在一輪遊戲結束並顯示隨機值之後，可以使用以下的 python 程式碼來重現結果。"
+            },
+            "multipleWinningRatePopup": {
+                "winChance": "獲勝機率",
+                "profitOnWin": "獲勝利潤"
+            }
+        },
+        "userInputError": {
+            "bet": {
+                "invalidFormat": "投注金額不能超過您的餘額！",
+                "minimumBetAmount": "必須大於{value}。",
+                "zero": "必須大於 0。"
+            }
+        }
+    }
+}

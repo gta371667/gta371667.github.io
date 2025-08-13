@@ -1,0 +1,276 @@
+{
+  "mainRes": {
+    "jsonKey": "zh_TW",
+    "app": {
+      "loginAuthExpiredPopup": {
+        "title": "登入效期已過\n 請重新登入"
+      }
+    },
+    "common": {
+      "login": "登入",
+      "complete": "完成",
+      "cancel": "取消",
+      "close": "關閉",
+      "loginFirst": "請先登入",
+      "appName": "XQ娛樂城",
+      "confirm": "確認",
+      "futureClosed": "功能關閉中",
+      "priceUnit": "$",
+      "timesUnit": "次",
+      "logout": "登出",
+      "bindPhoneFirst": "請先綁定手機"
+    },
+    "games": {
+      "gdice": "Happy Dice",
+      "gkeno": "Fast Keno",
+      "gwheel": "Wheel of Fortune",
+      "glimbo": "Quick Limbo",
+      "gmines": "Amazing Mines",
+      "gpump": "Exciting Pump",
+      "gdragonTower": "Super Hunter",
+      "gdiamonds": "Rhythm Diamonds",
+      "gsnakes": "Rapid Snakes"
+    },
+    "error": {
+      "system": "未知錯誤",
+      "connectionTimeout": "連線超時",
+      "receiveTimeout": "等待響應超時",
+      "sendTimeout": "發送請求超時",
+      "http400": "帳密錯誤",
+      "common00003_1": "餘額不足"
+    },
+    "login": {
+      "appBarTitle": "登入",
+      "toSignup": "立即註冊",
+      "forgetPassword": "忘記密碼",
+      "usernameTitle": "使用者名稱或信箱",
+      "passwordTitle": "密碼",
+      "usernameHint": "請輸入使用者名稱或信箱",
+      "passwordHint": "請輸入密碼"
+    },
+    "userInputError": {
+      "password": {
+        "empty": "請輸入密碼",
+        "tooShort": "請至少輸入6個字元"
+      },
+      "username": {
+        "empty": "請輸入使用者名稱或信箱",
+        "tooShort": "用戶名稱至少3位數",
+        "tooLong": "用戶名稱最多14位數",
+        "between314": "使用者名稱必須為3-14個字元"
+      },
+      "email": {
+        "empty": "請輸入信箱",
+        "invalidFormat": "信箱格式不正確"
+      },
+      "phone": {
+        "empty": "請輸入電話",
+        "invalidFormat": "電話格式不正確",
+        "noCountryCode": "請選擇國碼"
+      },
+      "dialCode": {
+        "empty": "請選擇區碼",
+        "invalidFormat": "區碼格式不正確"
+      },
+      "verificationCode": {
+        "empty": "請輸入驗證碼",
+        "invalidFormat": "驗證碼格式不正確"
+      },
+      "birthday": {
+        "empty": "出生日期不得為空",
+        "under18y": " 您必需年滿18歲以上",
+        "invalidFormat": "出生日期格式不正確"
+      }
+    },
+    "signup": {
+      "appBarTitle": "創立帳戶",
+      "usernameTitle": "使用者名稱",
+      "usernameHint": "請輸入使用者名稱",
+      "enterPasswordTitle": "密碼",
+      "enterPasswordHint": "請輸入密碼",
+      "enterEmailTitle": "信箱",
+      "enterEmailHint": "請填寫您的電子信箱",
+      "registerButton": "註冊",
+      "enterPhoneNumberTitle": "手機號碼(可選)",
+      "enterPhoneNumberHint": "請輸入手機號碼",
+      "userBirthdayTitle": "出生日期",
+      "userBirthdayHint": "出生日期",
+      "verificationCodeTitle": "驗證碼 (電子信箱)",
+      "verificationCodeHint": "請輸入驗證碼"
+    },
+    "keyboardInputAction": {
+      "complete": "完成"
+    },
+    "home": {
+      "appBarTitle": "娛樂城",
+      "login": "登入",
+      "signup": "註冊",
+      "playing": "遊戲中",
+      "memberMenu": {
+        "wallet": "錢包",
+        "bet": "我的投注",
+        "setting": "設定",
+        "service": "在線客服",
+        "logout": "登出"
+      },
+      "searchHint": "搜索遊戲"
+    },
+    "verificationCodeButton": {
+      "sendPhoneCode": "發送驗證碼"
+    },
+    "checkboxInputContainer": {
+      "reachMaxToast": "最多可選 {max} 項",
+      "reachMinToast": "最少需選 {min} 項"
+    },
+    "dialCodeContainer": {
+      "hint": "國碼"
+    },
+    "countryCode": {
+      "emptyTip": "查無資料",
+      "country": "國家",
+      "searchEnterHint": "請輸入名稱或區碼"
+    },
+    "wallet": {
+      "appBarTitle": "我的錢包",
+      "deposit": "入金",
+      "transfer": "轉帳"
+    },
+    "asset": {
+      "cada": "ADA",
+      "cbtc": "BTC",
+      "ceth": "ETH",
+      "ch": "H Point",
+      "cusd": "USD",
+      "cusdt": "USDT"
+    },
+    "settingWalletNotifyPopup": {
+      "title": "歡迎使用Having Fun！",
+      "content": "相信您已經迫不急待想要趕快加入遊戲，\n就讓我們先開始您的第一步：設定錢包並儲值！",
+      "cancel": "先跳過",
+      "deposit": "儲值"
+    },
+    "walletHistory": {
+      "appBarTitle": "歷史紀錄",
+      "timeFilter": {
+        "title": "時間",
+        "cancel": "取消",
+        "allTime": "所有時間",
+        "past7Days": "最近7天",
+        "past30Days": "最近30天",
+        "past90Days": "最近90天"
+      },
+      "statusFilter": {
+        "title": "狀態",
+        "reset": "重設",
+        "apply": "應用",
+        "allStatus": "全部",
+        "filled": "儲值成功",
+        "failed": "儲值失敗",
+        "progressing": "進行中"
+      },
+      "amount": "金額",
+      "pay": "支付金額",
+      "noMore": "已經全部加載完畢"
+    },
+    "betHistory": {
+      "title": "我的投注",
+      "casino": "娛樂城",
+      "game": "遊戲",
+      "multiplier": "倍數",
+      "time": "投注時間",
+      "betID": "投注單號",
+      "betAmount": "投注額",
+      "payout": "收益",
+      "copySuffix": "casino :",
+      "copySuccessful": "複製成功"
+    },
+    "betHistoryDetail": {
+      "appBarTitle": "投注詳細",
+      "betTitle": "投注",
+      "betId": "投注單號",
+      "betAmount": "投注額",
+      "payout": "收益",
+      "placedBy": "投注者",
+      "time": "投注時間",
+      "multiplier": "倍數",
+      "dice": {
+        "winChance": "獲勝機率",
+        "rollOver": "擲點數大於",
+        "rollUnder": "擲點數小於",
+        "playGame": "前往 Happy Dice"
+      },
+      "wheel": {
+        "profitOnWin": "獲勝利潤",
+        "winChance": "勝算",
+        "playGame": "前往 Wheel"
+      },
+      "limbo": {
+        "target": "目標",
+        "result": "結果",
+        "playGame": "前往 Quick Limbo"
+      },
+      "keno": {
+        "playGame": "前往 Keno"
+      },
+      "mines": {
+        "playGame": "前往 Mines"
+      },
+      "dragonTower": {
+        "playGame": "前往 Dragon Tower"
+      },
+      "diamonds": {
+        "playGame": "前往 Rhythm Diamonds"
+      },
+      "pump": {
+        "playGame": "前往 Pump",
+        "pumpNumber": "泵浦編號",
+        "popPoint": "流行點",
+        "maxMultiplier": "最大倍數"
+      },
+      "snakes": {
+        "playGame": "前往 Snakes"
+      },
+      "copySuffix": "casino :",
+      "copySuccessful": "複製成功",
+      "copyShareSuccessful": "複製成功，前往分享"
+    },
+    "settings": {
+      "appBarTitle": "設定",
+      "theme": "主題外觀",
+      "language": "語系",
+      "checkUpdate": "檢查更新",
+      "appVersion": "APP版本",
+      "resVersion": "資源版本"
+    },
+    "uiTheme": {
+      "system": "系統",
+      "light": "明亮",
+      "dark": "暗黑"
+    },
+    "locale": {
+      "system": "系統",
+      "zhHant": "繁體中文",
+      "zhHans": "簡體中文",
+      "zh": "中文",
+      "en": "English",
+      "jp": "日本語",
+      "kr": "한국어",
+      "th": "ไทย",
+      "vi": "Tiếng Việt"
+    },
+    "languageSetting": {
+      "appBarTitle": "語言設定"
+    },
+    "numberInputRangeField": {
+      "value": "值"
+    },
+    "numberInputField": {
+      "defaultHint": "未設置"
+    },
+    "verificationCodeBloc": {
+      "statusWait": "還需等待 {seconds} 秒",
+      "selectDialCodeFirst": "請選擇區碼",
+      "captchaSendSuccess": "驗證碼已發送"
+    }
+  }
+}

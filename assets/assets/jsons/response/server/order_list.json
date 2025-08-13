@@ -1,0 +1,52 @@
+{
+    "code": "",
+    "data": {
+        "total": 0,
+        "result": [
+            {
+                "orderId": "0",
+                "userId": "0",
+                "user": {
+                    "createTime": "2025-06-23T02:57:48.770Z",
+                    "updateTime": "2025-06-23T02:57:48.770Z",
+                    "userId": 0,
+                    "no": "string",
+                    "status": "string",
+                    "username": "string",
+                    "password": "string",
+                    "mobile": "string",
+                    "email": "string",
+                    "birthday": "2025-06-23T02:57:48.770Z",
+                    "userBalance": {
+                        "createTime": "2025-06-23T02:57:48.770Z",
+                        "updateTime": "2025-06-23T02:57:48.770Z",
+                        "userId": 0,
+                        "balance": 0
+                    },
+                    "userActivity": [
+                        {
+                            "createTime": "2025-06-23T02:57:48.770Z",
+                            "updateTime": "2025-06-23T02:57:48.770Z",
+                            "userActivityId": 0,
+                            "userId": 0,
+                            "no": "string",
+                            "itemType": "string",
+                            "item": "string",
+                            "point": 0,
+                            "balance": 0
+                        }
+                    ]
+                },
+                "no": "string",
+                "gameName": "string",
+                "bet": 0.0,
+                "multiplier": 0.0,
+                "profit": 0.0,
+                "platform": "string",
+                "gameResult": "string",
+                "createTime": "2025-06-23T02:57:48.770Z",
+                "updateTime": "2025-06-23T02:57:48.770Z"
+            }
+        ]
+    }
+}

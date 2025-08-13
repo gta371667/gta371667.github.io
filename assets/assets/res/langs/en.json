@@ -1,0 +1,275 @@
+{
+  "mainRes": {
+    "jsonKey": "zh_TW",
+    "app": {
+      "loginAuthExpiredPopup": {
+        "title": "Your login has expired. \nPlease log in again."
+      }
+    },
+    "common": {
+      "login": "Login",
+      "complete": "Done",
+      "cancel": "Cancel",
+      "close": "Close",
+      "loginFirst": "Please log in.",
+      "appName": "Casino",
+      "confirm": "Confirm",
+      "futureClosed": "Function is off.",
+      "priceUnit": "$",
+      "timesUnit": "times",
+      "logout": "Logout",
+      "bindPhoneFirst": "Please connect your phone first"
+    },
+    "games": {
+      "gdice": "Happy Dice",
+      "gkeno": "Fast Keno",
+      "gwheel": "Wheel of Fortune",
+      "glimbo": "Quick Limbo",
+      "gmines": "Amazing Mines",
+      "gpump": "Exciting Pump",
+      "gdragonTower": "Super Hunter",
+      "gdiamonds": "Rhythm Diamonds",
+      "gsnakes": "Rapid Snakes"
+    },
+    "error": {
+      "system": "未知錯誤",
+      "connectionTimeout": "連線超時",
+      "receiveTimeout": "等待響應超時",
+      "sendTimeout": "發送請求超時",
+      "http400": "帳密錯誤",
+      "common00003_1": "餘額不足"
+    },
+    "login": {
+      "appBarTitle": "Sign in",
+      "toSignup": "Register an Account",
+      "forgetPassword": "Forget Password",
+      "usernameTitle": "Email or Username",
+      "passwordTitle": "Password",
+      "usernameHint": "Please enter your Email or Username",
+      "passwordHint": "Please enter your password"
+    },
+    "userInputError": {
+      "password": {
+        "empty": "Please enter your password",
+        "tooShort": "Must be at least 6 characters long"
+      },
+      "username": {
+        "empty": "Please enter your Email or Username",
+        "tooShort": "用戶名稱至少3位數",
+        "tooLong": "用戶名稱最多14位數",
+        "between314": "Username must be 3-14 characters long"
+      },
+      "email": {
+        "empty": "Please fill in your Email address",
+        "invalidFormat": "信箱格式不正確"
+      },
+      "phone": {
+        "empty": "請輸入電話",
+        "invalidFormat": "電話格式不正確",
+        "noCountryCode": "請選擇國碼"
+      },
+      "dialCode": {
+        "empty": "Enter the area Code",
+        "invalidFormat": "區碼格式不正確"
+      },
+      "verificationCode": {
+        "empty": "Enter the verification code",
+        "invalidFormat": "驗證碼格式不正確"
+      },
+      "birthday": {
+        "empty": "出生日期不得為空",
+        "under18y": " You must be at least 18 years old",
+        "invalidFormat": "出生日期格式不正確"
+      }
+    },
+    "signup": {
+      "appBarTitle": "Create an Account",
+      "usernameTitle": "Username",
+      "usernameHint": "Please enter your username",
+      "enterPasswordTitle": "Password",
+      "enterPasswordHint": "Please enter your password",
+      "enterEmailTitle": "Email",
+      "enterEmailHint": "Please fill in your Email address",
+      "registerButton": "Register",
+      "enterPhoneNumberTitle": "Phone (Optional)",
+      "enterPhoneNumberHint": "Please enter your phone number",
+      "userBirthdayTitle": "Date of Birth",
+      "verificationCodeTitle": "Verification Code (from your mailbox)",
+      "verificationCodeHint": "Enter the verification code"
+    },
+    "keyboardInputAction": {
+      "complete": "Done"
+    },
+    "home": {
+      "appBarTitle": "Casino",
+      "login": "Login",
+      "signup": "Register",
+      "playing": "Playing",
+      "memberMenu": {
+        "wallet": "Wallet",
+        "bet": "My Bets",
+        "setting": "Settings",
+        "service": "Live Support",
+        "logout": "Logout"
+      },
+      "searchHint": "搜索遊戲"
+    },
+    "verificationCodeButton": {
+      "sendPhoneCode": "Send Verification Code"
+    },
+    "checkboxInputContainer": {
+      "reachMaxToast": "最多可選 {max} 項",
+      "reachMinToast": "最少需選 {min} 項"
+    },
+    "dialCodeContainer": {
+      "hint": "Area Code"
+    },
+    "countryCode": {
+      "emptyTip": "查無資料",
+      "country": "國家",
+      "searchEnterHint": "請輸入名稱或區碼"
+    },
+    "wallet": {
+      "appBarTitle": "My Wallet",
+      "deposit": "Deposit",
+      "transfer": "Transfer"
+    },
+    "asset": {
+      "cada": "ADA",
+      "cbtc": "BTC",
+      "ceth": "ETH",
+      "ch": "H Point",
+      "cusd": "USD",
+      "cusdt": "USDT"
+    },
+    "settingWalletNotifyPopup": {
+      "title": "Welcome to Having Fun!",
+      "content": "I'm sure you're already eager to join the game, so let's start with your first step.\nLet's start with your first step: setting up your wallet and depositing money!",
+      "cancel": "Skip",
+      "deposit": "Deposit"
+    },
+    "walletHistory": {
+      "appBarTitle": "History",
+      "timeFilter": {
+        "title": "Time",
+        "cancel": "Cancel",
+        "allTime": "All time",
+        "past7Days": "Past 7 days",
+        "past30Days": "Past 30 days",
+        "past90Days": "Past 90 days"
+      },
+      "statusFilter": {
+        "title": "Status",
+        "reset": "Reset",
+        "apply": "Apply",
+        "allStatus": "All status",
+        "filled": "Filled",
+        "failed": "Failed",
+        "progressing": "Progressing"
+      },
+      "amount": "金額",
+      "pay": "Pay",
+      "noMore": "已經全部加載完畢"
+    },
+    "betHistory": {
+      "title": "My Bets",
+      "casino": "Casino",
+      "game": "Game",
+      "multiplier": "Multiplier",
+      "time": "Time",
+      "betID": "Bet ID",
+      "betAmount": "Bet Amount",
+      "payout": "Payout",
+      "copySuffix": "casino :",
+      "copySuccessful": "Copy successful"
+    },
+    "betHistoryDetail": {
+      "appBarTitle": "Betting Details",
+      "betTitle": "Bet",
+      "betId": "Bet ID",
+      "betAmount": "Bet Amount",
+      "payout": "Payout",
+      "placedBy": "Placed by",
+      "time": "Time",
+      "multiplier": "Multiplier",
+      "dice": {
+        "winChance": "Win Chance",
+        "rollOver": "Roll Over",
+        "rollUnder": "Roll Under",
+        "playGame": "Play Happy Dice"
+      },
+      "wheel": {
+        "profitOnWin": "Profit on Win",
+        "winChance": "Win Chance",
+        "playGame": "Play Wheel"
+      },
+      "limbo": {
+        "target": "Target",
+        "result": "Result",
+        "playGame": "Play Quick Limbo"
+      },
+      "keno": {
+        "playGame": "Play Keno"
+      },
+      "mines": {
+        "playGame": "Play Mines"
+      },
+      "dragonTower": {
+        "playGame": "Play Dragon Tower"
+      },
+      "diamonds": {
+        "playGame": "Play Rhythm Diamonds"
+      },
+      "pump": {
+        "playGame": "Play Pump",
+        "pumpNumber": "Pump Number",
+        "popPoint": "Pop Point",
+        "maxMultiplier": "Max Multiplier"
+      },
+      "snakes": {
+        "playGame": "Play Snakes"
+      },
+      "copySuffix": "casino :",
+      "copySuccessful": "Copy Success",
+      "copyShareSuccessful": "Copy successfully, go to share"
+    },
+    "settings": {
+      "appBarTitle": "Settings",
+      "theme": "Theme Mode",
+      "language": "Language",
+      "checkUpdate": "Check Update",
+      "appVersion": "APP Version",
+      "resVersion": "Resource Version"
+    },
+    "uiTheme": {
+      "system": "System",
+      "light": "Light",
+      "dark": "Dark"
+    },
+    "locale": {
+      "system": "System",
+      "zhHant": "繁體中文",
+      "zhHans": "簡體中文",
+      "zh": "中文",
+      "en": "English",
+      "jp": "日本語",
+      "kr": "한국어",
+      "th": "ไทย",
+      "vi": "Tiếng Việt"
+    },
+    "languageSetting": {
+      "appBarTitle": "Language Setting"
+    },
+    "numberInputRangeField": {
+      "value": "Value"
+    },
+    "numberInputField": {
+      "defaultHint": "Unset"
+    },
+    "verificationCodeBloc": {
+      "statusWait": "You still need to wait {seconds} seconds.",
+      "selectDialCodeFirst": "Please select a area code.",
+      "captchaSendSuccess": "A verification code has been sent."
+    }
+  }
+}

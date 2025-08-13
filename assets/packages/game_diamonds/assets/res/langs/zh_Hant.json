@@ -1,0 +1,60 @@
+{
+    "diamondsRes": {
+        "jsonKey": "zh_TW",
+        "common": {
+            "appName": "Quick Limbo",
+            "confirm": "確認"
+        },
+        "diamonds": {
+            "targetMultiplier": "目標倍數",
+            "winChance": "獲勝機率",
+            "betAmount": "投注額",
+            "bet": "投注",
+            "profitOnWin": "獲勝利潤",
+            "description": {
+                "title": "遊戲說明",
+                "contentTitle1": "Rhythm Diamonds 玩法和說明",
+                "content2": "Rhythm Diamonds 以分割畫面的形式進行遊戲。上方是付費表。付費表下方是五個鑽石空格。下方則是下注金額設定器。",
+                "contentTitle3": "圖示和贏利表",
+                "content4": "您可以使用鑽石顏色在五個位置上給出七種結果。所有七種結果都有不同的獎金：",
+                "no": "No.",
+                "combinationName": "組合名稱",
+                "rules": "規則",
+                "payout": "收益",
+                "zeroMatch": "零配對",
+                "zeroMatchDescription": "沒有任何鑽石配對",
+                "pair": "一對",
+                "pairDescription": "兩個相同顏色鑽石配對，剩餘鑽石落單",
+                "twoPairs": "一對",
+                "twoPairsDescription": "兩個相同顏色鑽石與另外兩個相同顏色鑽石配對",
+                "threeOfAKind": "三條",
+                "threeOfAKindDescription": "三個相同顏色鑽石配對，剩餘鑽石落單",
+                "fullHouse": "葫蘆",
+                "fullHouseDescription": "三個相同顏色鑽石與其他兩個相同顏色鑽石配對",
+                "fourOfAKind": "四條",
+                "fourOfAKindDescription": "四個相同顏色鑽石配對，剩餘鑽石落單",
+                "fiveOfAKind": "五條",
+                "fiveOfAKindDescription": "五個相同顏色鑽石配對"
+            },
+            "fairVerification": {
+                "title": "公平驗證範例",
+                "description1": "在一輪遊戲結束並顯示隨機值之後，可以使用以下的 python 程式碼來重現結果。"
+            }
+        },
+        "numberInputRangeField": {
+            "value": "值"
+        },
+        "numberInputField": {
+            "defaultHint": "未設置"
+        },
+        "userInputError": {
+            "maximum": "最大值",
+            "minimum": "最小值",
+            "bet": {
+                "invalidFormat": "投注金額不能超過您的餘額！",
+                "minimumBetAmount": "必須大於{value}。",
+                "zero": "必須大於 0。"
+            }
+        }
+    }
+}

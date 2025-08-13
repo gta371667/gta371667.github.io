@@ -1,0 +1,52 @@
+{
+  "pumpRes": {
+    "jsonKey": "en手動調整",
+    "common": {
+      "appName": "Exciting Pump",
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    },
+    "main": {
+      "description": {
+        "title": "Game Description",
+        "content1": "Exciting Pump is a fun game where a big balloon is waiting to be pumped up for a chance to win big!This is a fun and exciting game that gives you the chance to win up to 3,203,384.80x your bet.",
+        "contentTitle2": "How to Play Exciting Pump & Gameplay",
+        "content3": "If you’re a fan of games that keep you on the edge of your seat and provide an engaging gaming experience, then you won’t want to miss Exciting Pump. This game is the perfect choice for players who are new to online gambling or experienced players who are looking for a challenge. Based on how you choose to play, this fair game can be a rewarding experience.",
+        "content4": "Set your bet, choose a game mode, and hit the PUMP button to get the fun started! The more you pump up the balloon, the higher the multiplier will climb. Be careful because the balloon can pop at any time, and when it does, you’ll lose your wager and have to start again! The maximum winning multipliers 3,203,384.80x per bet."
+      },
+      "bet": "Bet",
+      "pump": "Pump",
+      "betAmount": "Bet Amount",
+      "betAmountHint": "Minimum {min}",
+      "halfBet": "½",
+      "doubleBet": "2x",
+      "betRangeError": {
+        "mustInteger": "Must be integer.",
+        "mustPositive": "This must be greater than 0.",
+        "mustLessThanBalance": "Can’t bet more than your balance！"
+      },
+      "settle": "Cashout",
+      "winProfit": "Profit on Win({multiplier}x)",
+      "difficulty": {
+        "title": "Difficulty",
+        "expert": "Expert",
+        "easy": "Easy",
+        "normal": "Normal",
+        "hard": "Hard"
+      },
+      "popped": "Popped",
+      "multiplierInfo": {
+        "profitTitle": "Profit on Win",
+        "rateTitle": "Chance"
+      }
+    },
+    "asset": {
+      "cada": "ADA",
+      "cbtc": "BTC",
+      "ceth": "ETH",
+      "ch": "H Point",
+      "cusd": "USD",
+      "cusdt": "USDT"
+    }
+  }
+}

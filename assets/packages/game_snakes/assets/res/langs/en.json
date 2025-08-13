@@ -1,0 +1,56 @@
+{
+  "snakesRes": {
+    "jsonKey": "en手動調整",
+    "common": {
+      "appName": "Rapid Snakes",
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    },
+    "main": {
+      "description": {
+        "title": "Game Description",
+        "contentTitle1": "How to Play Rapid Snakes & Gameplay",
+        "content2": "Inspired by the childhood board game, Rapid Snakes is a simple game with random multipliers.",
+        "content3": "All you have to do to play is set your wager amount and roll the dice. Based on the total that the two dice reveal, you’ll move around the gameboard with 12 spaces and either reveal multipliers or snakes. If you land on a snake, you’ll lose.",
+        "contentTitle4": "Game Modes & Key Mechanics",
+        "content5": "When playing Rapid Snakes, you’re in control of the game modes and the number of snakes on the board. Take a look at the interesting adjustable volatility mechanic and how it affects the rest of the gameplay.",
+        "tableTitle1": "Game Volatility",
+        "tableTitle2": "Snakes on the Board",
+        "tableTitle3": "Multiplier Range"
+      },
+      "bet": "Bet",
+      "rollDice": "Roll Dice",
+      "betAmount": "Bet Amount",
+      "betAmountHint": "Minimum {min}",
+      "halfBet": "½",
+      "doubleBet": "2x",
+      "betRangeError": {
+        "mustInteger": "Must be integer.",
+        "mustPositive": "This must be greater than 0.",
+        "mustLessThanBalance": "Can’t bet more than your balance！"
+      },
+      "settle": "Cashout",
+      "winProfit": "Profit on Win({multiplier}x)",
+      "difficulty": {
+        "title": "Difficulty",
+        "expert": "Expert",
+        "easy": "Easy",
+        "normal": "Normal",
+        "hard": "Hard",
+        "master": "Master"
+      },
+      "multiplierInfo": {
+        "profitTitle": "Profit on Win",
+        "rateTitle": "Chance"
+      }
+    },
+    "asset": {
+      "cada": "ADA",
+      "cbtc": "BTC",
+      "ceth": "ETH",
+      "ch": "H Point",
+      "cusd": "USD",
+      "cusdt": "USDT"
+    }
+  }
+}

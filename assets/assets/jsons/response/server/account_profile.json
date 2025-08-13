@@ -1,0 +1,12 @@
+{
+  "code": "0",
+  "data": {
+    "userId": 0,
+    "no": "string",
+    "status": "string",
+    "username": "string",
+    "mobile": "string",
+    "email": "string",
+    "birthday": "2025-06-19T05:53:09.951Z"
+  }
+}

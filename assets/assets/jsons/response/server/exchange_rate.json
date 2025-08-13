@@ -1,0 +1,25 @@
+{
+  "code": "0",
+  "data": [
+    {
+      "code": "BTC",
+      "price": 20000.0
+    },
+    {
+      "code": "ADA",
+      "price": 0.6
+    },
+    {
+      "code": "USD",
+      "price": 1.0
+    },
+    {
+      "code": "USDT",
+      "price": 1.0
+    },
+    {
+      "code": "H",
+      "price": 1.0
+    }
+  ]
+}

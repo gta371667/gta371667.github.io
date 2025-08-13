@@ -1,0 +1,27 @@
+{
+  "dice": {
+    "common": {
+      "appName": "aaaaaaaaaa"
+    },
+    "setup": {
+      "step": {
+        "initMount": "初始化...",
+        "checkUpdate": "檢查更新...",
+        "downloadingResource": "下載更新...",
+        "deployingResource": "驗證檔案...",
+        "remount": "載入設定資料..."
+      },
+      "downloadProgressDesc": "目前完成進度{value}%",
+      "allFileProgressDesc": "所有檔案下載進度",
+      "confirm": "確定",
+      "errorPopup": {
+        "downloadFail": "下載更新失敗(r{id})",
+        "deployFail": "驗證檔案失敗(r{id})",
+        "checkUpdateFail": "無法連接到伺服器",
+        "saveVersionFail": "資源保存發生異常",
+        "mountFail": "初始化發生異常",
+        "remountFail": "載入設定資料發生異常"
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "real": {
+    "server": "",
+    "socket": "",
+    "auth": "",
+    "customerService": "",
+    "campaign": ""
+  },
+  "paper": {
+    "server": "",
+    "socket": "",
+    "auth": "",
+    "customerService": "",
+    "campaign": ""
+  }
+}

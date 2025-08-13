@@ -1,0 +1,59 @@
+{
+  "kenoRes": {
+    "jsonKey": "en手動調整",
+    "common": {
+      "appName": "Fast Keno",
+      "confirm": "確定",
+      "cancel": "取消"
+    },
+    "main": {
+      "cardNoSelectedTip": "請選擇1-{value}格數字以開始遊戲",
+      "riskLevel": {
+        "title": "風險",
+        "classic": "典型",
+        "low": "低等",
+        "medium": "中等",
+        "high": "高等"
+      },
+      "description": {
+        "title": "遊戲說明",
+        "content1": "Fast Keno 是一款概念遊戲，與樂透以及賓果遊戲類似，在現代賭場遊戲中非常熱門。在Fast Keno中，您可以從 1-40 個數字中選擇 1-10 個數字。",
+        "content2": "完成選擇並進行投注後，隨機抽取 10 個數字，如果您的選擇正確，您就可以基於相關的支付表獲得贏利。",
+        "contentTitle3": "基諾賭場遊戲的歷史",
+        "content4": "儘管「keno」一詞起源於拉丁文，但我們今天所熟悉和喜愛的 keno 遊戲卻被認為起源於中國。在中國，這個遊戲有一個傳奇的起源故事。",
+        "content5": "據說，當時恰逢一場戰爭，keno 的發明使一座中國的城池倖免於難。之後，這款遊戲的流行也幫助籌集了建造長城的資金。",
+        "content6": "然而，直到十九世紀，彩票形式的keno才被整個中國社會廣泛接受。",
+        "content7": "1847 年，澳門葡萄牙政府首次向彩票經營者發出許可證。在其後的世紀中，keno成為中國文化和傳統的重要組成部分。",
+        "content8": "在中國的偏遠地區，keno的抽獎結果透過信鴿的方式傳遞到各個村莊，所以這款遊戲在中國某些地區也被稱為「白鴿票」和「鴿子票」。",
+        "content9": "19 世紀末，中國建立了成熟的keno系統。遊戲使用印刷的漢字，通常是千字文的前八十字。",
+        "content10": "Keno 最早被引入中國以外的地方是在德州休士頓。該遊戲是由受命建造第一條橫跨大陸鐵路的中國移民帶到德克薩斯州的。它最初在美國被稱為 「boc hop bu」，這是廣東遊戲名稱的西方化，翻譯為鴿子票。",
+        "content11": "1870 年，中國的樂透遊戲在美國有了西化的新名字－Keno（基諾）。遊戲很快就傳到了美國的其他州和城市，基諾的歷史也就此展開。"
+      },
+      "bet": "投注",
+      "autoSelect": "自動挑選",
+      "clear": "清空桌面",
+      "betAmount": "投注額",
+      "betAmountHint": "最少{min}",
+      "halfBet": "½",
+      "doubleBet": "2x",
+      "betRangeError": {
+        "mustInteger": "請輸入整數。",
+        "mustPositive": "必須大於0。",
+        "mustLessThanBalance": "投注金額不能超過您的餘額！"
+      },
+      "multiplierInfo": {
+        "betAmountTitle": "投注額",
+        "profitTitle": "獲勝利潤",
+        "rateTitle": "獲勝機率"
+      }
+    },
+    "asset": {
+      "cada": "ADA",
+      "cbtc": "BTC",
+      "ceth": "ETH",
+      "ch": "H Point",
+      "cusd": "USD",
+      "cusdt": "USDT"
+    }
+  }
+}

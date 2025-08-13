@@ -1,0 +1,59 @@
+{
+  "kenoRes": {
+    "jsonKey": "en手動調整",
+    "common": {
+      "appName": "Fast Keno",
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    },
+    "main": {
+      "cardNoSelectedTip": "Select 1-{value} numbers to play",
+      "riskLevel": {
+        "title": "Risk",
+        "classic": "Classic",
+        "low": "Low",
+        "medium": "Medium",
+        "high": "High"
+      },
+      "description": {
+        "title": "Game Description",
+        "content1": "Fast Keno is a game of chance, similar to the lottery and bingo , and extremely popular amongst modern casinos. In Fast Keno, you can choose 1-10 numbers ranging from 1-40.",
+        "content2": "After making your selection and placing your bets, 10 numbers are randomly drawn, and if you’ve picked correctly, you will receive your winnings based on the associated pay table.",
+        "contentTitle3": "History of Keno Casino Games",
+        "content4": "It’s thought that the game of keno that we know and love today originated in China, even though the word “keno” has Latin roots. In China, the game has a legendary origin story.",
+        "content5": "It’s said that the invention of keno saved an ancient Chinese city from destruction at a time of war, and the game's popularity in the years that followed helped to fund the Great Wall of China.",
+        "content6": "However, it wasn’t until the nineteenth century that keno, in the form of a lottery, became widely accepted throughout Chinese society.",
+        "content7": "In 1847, the Portuguese government of Macau granted a license to lottery operators for the first time. Throughout the rest of the century, keno became an important part of Chinese culture and tradition.",
+        "content8": "In rural China, results of keno draws were sent to villages via carrier pigeons, resulting in the game becoming known as “white dove tickets” and “pigeon tickets” in certain Chinese regions.",
+        "content9": "Toward the end of the 19th century, the Chinese established a sophisticated keno system. The game used printed sheets of Chinese characters, typically the first eighty of the Thousand Character Classic.",
+        "content10": "The first known introduction of keno outside of China was thought to be in Houston, Texas. The game was taken by Chinese immigrants - commissioned to work on constructing the first transcontinental railroad - to the state of Texas. It was initially known as “boc hop bu” in the United States, which was a westernisation of the Cantonese name of the game, translated to pigeon tickets.",
+        "content11": "However, by 1870, the Chinese lottery game had a new American name – keno. It quickly spread to other states and cities in the United States, and the rest, as they say, is history."
+      },
+      "bet": "Bet",
+      "autoSelect": "Auto Pick",
+      "clear": "Clear Table ",
+      "betAmount": "Bet Amount",
+      "betAmountHint": "Minimum {min}",
+      "halfBet": "½",
+      "doubleBet": "2x",
+      "betRangeError": {
+        "mustInteger": "Must be integer.",
+        "mustPositive": "This must be greater than 0.",
+        "mustLessThanBalance": "Can’t bet more than your balance！"
+      },
+      "multiplierInfo": {
+        "betAmountTitle": "Bet Amount",
+        "profitTitle": "Profit on Win",
+        "rateTitle": "Chance"
+      }
+    },
+    "asset": {
+      "cada": "ADA",
+      "cbtc": "BTC",
+      "ceth": "ETH",
+      "ch": "H Point",
+      "cusd": "USD",
+      "cusdt": "USDT"
+    }
+  }
+}

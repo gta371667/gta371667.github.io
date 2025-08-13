@@ -1,0 +1,60 @@
+{
+    "diamondsRes": {
+        "jsonKey": "en手動調整",
+        "common": {
+            "appName": "Quick Limbo",
+            "confirm": "Confirm"
+        },
+        "diamonds": {
+            "targetMultiplier": "Target Multiplier",
+            "winChance": "Win Chance",
+            "betAmount": "Bet Amount",
+            "bet": "Bet",
+            "profitOnWin": "Profit on Win",
+            "description": {
+                "title": "Game Description",
+                "contentTitle1": "How to Play Rhythm Diamonds & Gameplay",
+                "content2": "Rhythm Diamonds is played in a split-screen format. On the top, there’s the paytable.There’s the paytable with the five Diamond spaces following it. On the bottom , you have the bet amount setter. ",
+                "contentTitle3": "Theme & Graphics",
+                "content4": "You can roll seven outcomes on the five spots using the Diamond colours. All seven come with different payouts:",
+                "no": "No.",
+                "combinationName": "Combination Name",
+                "rules": "Rules",
+                "payout": "Payout",
+                "zeroMatch": "Zero Match",
+                "zeroMatchDescription": "None of the Diamonds are matching",
+                "pair": "Pair",
+                "pairDescription": "Two Diamonds match, the rest are odd",
+                "twoPairs": "Two Pairs",
+                "twoPairsDescription": "Two Diamonds of one color and two Diamonds of another color match, the fifth one is an odd",
+                "threeOfAKind": "Three Of A Kind",
+                "threeOfAKindDescription": "Three Diamonds match, the rest are odd",
+                "fullHouse": "Full House",
+                "fullHouseDescription": "Three Diamonds of one color and two Diamonds of another",
+                "fourOfAKind": "Four Of A Kind",
+                "fourOfAKindDescription": "Four Diamonds match",
+                "fiveOfAKind": "Five Of A Kind",
+                "fiveOfAKindDescription": "All five Diamonds match"
+            },
+            "fairVerification": {
+                "title": "Verification Example",
+                "description1": "在一輪遊戲結束並顯示隨機值之後，可以使用以下的 python 程式碼來重現結果。"
+            }
+        },
+        "numberInputRangeField": {
+            "value": "value"
+        },
+        "numberInputField": {
+            "defaultHint": "Unset"
+        },
+        "userInputError": {
+            "maximum": "maximum",
+            "minimum": "minimum",
+            "bet": {
+                "invalidFormat": "Can’t bet more than your balance！",
+                "minimumBetAmount": "This must be greater than {value}.",
+                "zero": "This must be greater than 0."
+            }
+        }
+    }
+}

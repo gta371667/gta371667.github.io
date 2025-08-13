@@ -1,0 +1,56 @@
+{
+  "snakesRes": {
+    "jsonKey": "en手動調整",
+    "common": {
+      "appName": "Rapid Snakes",
+      "confirm": "確認",
+      "cancel": "取消"
+    },
+    "main": {
+      "description": {
+        "title": "遊戲說明",
+        "contentTitle1": "Rapid Snakes 玩法與機制",
+        "content2": "Rhythm Diamonds 以分割畫面的形式進行遊戲。上方是付費表。付費表下方是五個鑽石空格。下方則是下注金額設定器。",
+        "content3": "Rapid Snakes 的靈感來自兒時的桌面遊戲，是一款隨機倍數的簡單遊戲。",
+        "contentTitle4": "遊戲模式和關鍵玩法",
+        "content5": "在玩 Rapid Snakes 遊戲時，您可以控制遊戲模式和遊戲盤上蛇的數量。查看有趣且可以自我調節的波動性玩法，了解其如何影響遊戲。",
+        "tableTitle1": "遊戲波動性",
+        "tableTitle2": "遊戲盤上蛇的數量",
+        "tableTitle3": "倍數範圍"
+      },
+      "bet": "投注",
+      "rollDice": "擲骰子",
+      "betAmount": "投注額",
+      "betAmountHint": "最少 {min}",
+      "halfBet": "½",
+      "doubleBet": "2x",
+      "betRangeError": {
+        "mustInteger": "請輸入整數。",
+        "mustPositive": "必須大於0。",
+        "mustLessThanBalance": "投注金額不能超過您的餘額！"
+      },
+      "settle": "兌現",
+      "winProfit": "獲勝利潤({multiplier}x)",
+      "difficulty": {
+        "title": "難度",
+        "expert": "高手",
+        "easy": "簡單",
+        "normal": "中等",
+        "hard": "困難",
+        "master": "大師"
+      },
+      "multiplierInfo": {
+        "profitTitle": "獲勝利潤",
+        "rateTitle": "獲勝機率"
+      }
+    },
+    "asset": {
+      "cada": "ADA",
+      "cbtc": "BTC",
+      "ceth": "ETH",
+      "ch": "H Point",
+      "cusd": "USD",
+      "cusdt": "USDT"
+    }
+  }
+}

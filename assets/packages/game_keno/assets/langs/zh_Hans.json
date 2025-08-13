@@ -1,0 +1,24 @@
+{
+  "keno": {
+    "setup": {
+      "step": {
+        "initMount": "初始化...",
+        "checkUpdate": "检查更新...",
+        "downloadingResource": "下载更新...",
+        "deployingResource": "验证档案...",
+        "remount": "载入设定资料..."
+      },
+      "downloadProgressDesc": "目前完成进度{value}%",
+      "allFileProgressDesc": "所有档案下载进度",
+      "confirm": "确定",
+      "errorPopup": {
+        "downloadFail": "下载更新失败(r{id})",
+        "deployFail": "验证档案失败(r{id})",
+        "checkUpdateFail": "无法连接到服务器",
+        "saveVersionFail": "资源保存发生异常",
+        "mountFail": "初始化发生异常",
+        "remountFail": "载入设定资料发生异常"
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "dragonTowerRes": {
+        "jsonKey": "en手動調整",
+        "common": {
+            "appName": "Amazing Mines",
+            "confirm": "Confirm",
+            "cancel": "Cancel"
+        },
+        "main": {
+            "difficulty": {
+                "title": "難度",
+                "easy": "容易",
+                "medium": "中等",
+                "hard": "困難",
+                "expert": "高手",
+                "master": "大師"
+            },
+            "description": {
+                "title": "遊戲說明",
+                "contentTitle1": "什麼是 Super Hunter？",
+                "content2": "Super Hunter 是一款以獵人為主題的賭場遊戲。這是一款令人興奮的遊戲，提供超級簡單的遊戲體驗，讓您有機會在遊戲中獲得進步，同時一路解鎖大額倍數。",
+                "contentTitle3": "Super Hunter 玩法",
+                "content4": "在玩 Super Hunter 之前，首先要決定的是每局要下多少注，考慮到投注上限。",
+                "content5": "這款遊戲在許多方面都別具特色，您甚至可以設定遊戲的難度等級，選擇簡單、中等、困難、高手或大師等級。",
+                "content6": "遊戲的目標是猜測獵物會出現在每一行的哪一塊方塊上。如果您猜對了，您可以賺取即時獎金或進入下一關，並在過程中不斷解鎖倍數。",
+                "content7": "您可以自己挑選方格或啟動自動挑選功能來幫您挑選方格。這是一款具有獨特遊戲體驗的公平遊戲。"
+            },
+            "bet": "投注",
+            "autoSelect": "隨機挑選方塊",
+            "betAmount": "投注額",
+            "betAmountHint": "最少 {min}",
+            "halfBet": "½",
+            "doubleBet": "2x",
+            "betRangeError": {
+                "mustInteger": "請輸入整數。",
+                "mustPositive": "必須大於0。",
+                "mustLessThanBalance": "投注金額不能超過您的餘額！"
+            },
+            "bombCountTitle": "Mines",
+            "gemCountTitle": "寶石",
+            "settle": "兌現",
+            "winProfit": "獲勝利潤({odds}x)"
+        },
+        "asset": {
+            "cada": "ADA",
+            "cbtc": "BTC",
+            "ceth": "ETH",
+            "ch": "H Point",
+            "cusd": "USD",
+            "cusdt": "USDT"
+        }
+    }
+}

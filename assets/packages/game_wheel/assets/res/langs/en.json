@@ -1,0 +1,61 @@
+{
+    "wheelRes": {
+        "jsonKey": "en手動調整",
+        "common": {
+            "appName": "Wheel of Fortune",
+            "login": "Login",
+            "complete": "Done",
+            "cancel": "Cancel",
+            "close": "Close",
+            "loginFirst": "Please log in.",
+            "confirm": "Confirm",
+            "futureClosed": "Function is off.",
+            "priceUnit": "$",
+            "timesUnit": "times",
+            "logout": "Logout",
+            "bindPhoneFirst": "Please connect your phone first"
+        },
+        "wheel": {
+            "betAmount": "Bet Amount",
+            "bet": "Bet",
+            "risk": "Risk",
+            "riskHint": "Please select Risk",
+            "segments": "Segments",
+            "segmentsHint": "Please select a Segments",
+            "high": "High",
+            "medium": "Medium",
+            "low": "Low",
+            "gameDescription": {
+                "title": "Game Description",
+                "risk": "Risk",
+                "segments": "Segments",
+                "maxWin": "Max Wins",
+                "description1": "Set your risk level, choose the number of segments, and spin the wheel for your chance to land big multiplier wins.",
+                "description2": "Wheel of Fortune is a simple gameplay based on the spin of a big wheel. If the wheel spins in your favour, you could land the maximum payout of 49.50x the bet.",
+                "description3": "How to Play Wheel of Fortune & Gameplay",
+                "description4": "To play heel of Fortune , you must first create an account. This takes just a few minutes, and you can then deposit funds to get started.",
+                "description5": "The game has 2 main components: the risk setting and the number of segments. Before placing a bet, you need to decide on the risk, choosing low, medium, or high. You also need to select the number of segments to be active in the game, choosing from 10, 20, 30, 40, or 50.",
+                "description6": "The wheel has different colored zones depending on the setting. The multiplier at the bottom of the screen shows you how much you can win if these sectors appear.",
+                "description7": "Finally, after selecting, type in your stake amount and place the “Bet” button to spin the wheel.",
+                "description8": "Pay Table",
+                "description9": "Wheel of Fortune serves as the game’s main grid, and when it stops spinning, it can land on any of the coloured segments.",
+                "description10": "Here’s an overview of the max wins based on the risk and segments selected:"
+            },
+            "verificationExample": {
+                "title": "Verification Example",
+                "description1": "在一輪遊戲結束並顯示隨機值之後，可以使用以下的 python 程式碼來重現結果。"
+            },
+            "multipleWinningRatePopup": {
+                "winChance": "Chance",
+                "profitOnWin": "Profit on Win"
+            }
+        },
+        "userInputError": {
+            "bet": {
+                "invalidFormat": "Can’t bet more than your balance！",
+                "minimumBetAmount": "This must be greater than {value}.",
+                "zero": "This must be greater than 0."
+            }
+        }
+    }
+}

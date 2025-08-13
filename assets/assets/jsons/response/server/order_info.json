@@ -1,0 +1,30 @@
+{
+    "code": "0",
+    "data": {
+        "orderId": 93,
+        "userId": 2,
+        "user": {
+            "userId": 2,
+            "no": "00002",
+            "status": "Normal",
+            "username": "ssssss",
+            "mobile": "+886999999999",
+            "email": "ssssss@gmail.com",
+            "birthday": "0001-01-01T00:00:00",
+            "userBalance": null,
+            "userActivity": null,
+            "createTime": "2025-06-20T06:50:12.6439725",
+            "updateTime": "2025-06-20T06:50:12.7561961"
+        },
+        "no": "25062409482252300002",
+        "gameName": "Dice",
+        "bet": 1.0,
+        "multiplier": 2.0,
+        "profit": -1.0,
+        "platform": null,
+        "gameResult": "{\"GameName\":\"Dice\",\"Target\":\"50.5\",\"Result\":\"11.15\"}",
+        "createTime": "2025-06-24T09:48:23.0012298",
+        "updateTime": "2025-06-24T09:48:23.0011941",
+        "active": false
+    }
+}

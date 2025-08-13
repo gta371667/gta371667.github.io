@@ -1,0 +1,74 @@
+{
+  "code": "",
+  "data": {
+    "total": 0,
+    "result": [
+      {
+        "gameGenresId": 0,
+        "name": "string",
+        "gameGenresNameTranslation": {
+          "translationId": 0,
+          "translationEntry": [
+            {
+              "translationEntryId": 0,
+              "translationId": 0,
+              "languageCode": "string",
+              "text": "string"
+            }
+          ]
+        },
+        "status": "string",
+        "sort": 0,
+        "remark": "string",
+        "darkIcon": "string",
+        "darkIconUrl": "string",
+        "lightIcon": "string",
+        "lightIconUrl": "string",
+        "games": [
+          {
+            "createTime": "2025-06-20T02:18:54.971Z",
+            "updateTime": "2025-06-20T02:18:54.971Z",
+            "gameId": 0,
+            "name": "string",
+            "code": "string",
+            "status": "string",
+            "sort": 0,
+            "remark": "string",
+            "profitMargin": 0.0,
+            "minimumBet": 0.0,
+            "gameGenres": [
+              {
+                "createTime": "2025-06-20T02:18:54.971Z",
+                "updateTime": "2025-06-20T02:18:54.971Z",
+                "gameGenresId": 0,
+                "name": "string",
+                "gameGenresNameTranslationId": 0,
+                "gameGenresNameTranslation": {
+                  "translationId": 0,
+                  "translationEntry": [
+                    {
+                      "translationEntryId": 0,
+                      "translationId": 0,
+                      "languageCode": "string",
+                      "text": "string"
+                    }
+                  ]
+                },
+                "status": "string",
+                "sort": 0,
+                "remark": "string",
+                "darkIcon": "string",
+                "lightIcon": "string",
+                "games": [
+                  "string"
+                ]
+              }
+            ]
+          }
+        ],
+        "createTime": "2025-06-20T02:18:54.971Z",
+        "updateTime": "2025-06-20T02:18:54.971Z"
+      }
+    ]
+  }
+}

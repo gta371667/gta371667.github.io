@@ -1,0 +1,62 @@
+{
+  "code": "",
+  "data": {
+    "total": 0,
+    "result": [
+      {
+        "gameId": 0,
+        "name": "string",
+        "code": "string",
+        "status": "string",
+        "sort": 0,
+        "remark": "string",
+        "profitMargin": 0.0,
+        "minimumBet": 0.0,
+        "gameGenres": [
+          {
+            "createTime": "2025-06-20T02:20:56.640Z",
+            "updateTime": "2025-06-20T02:20:56.640Z",
+            "gameGenresId": 0,
+            "name": "string",
+            "gameGenresNameTranslationId": 0,
+            "gameGenresNameTranslation": {
+              "translationId": 0,
+              "translationEntry": [
+                {
+                  "translationEntryId": 0,
+                  "translationId": 0,
+                  "languageCode": "string",
+                  "text": "string"
+                }
+              ]
+            },
+            "status": "string",
+            "sort": 0,
+            "remark": "string",
+            "darkIcon": "string",
+            "lightIcon": "string",
+            "games": [
+              {
+                "createTime": "2025-06-20T02:20:56.640Z",
+                "updateTime": "2025-06-20T02:20:56.640Z",
+                "gameId": 0,
+                "name": "string",
+                "code": "string",
+                "status": "string",
+                "sort": 0,
+                "remark": "string",
+                "profitMargin": 0.0,
+                "minimumBet": 0.0,
+                "gameGenres": [
+                  "string"
+                ]
+              }
+            ]
+          }
+        ],
+        "createTime": "2025-06-20T02:20:56.640Z",
+        "updateTime": "2025-06-20T02:20:56.640Z"
+      }
+    ]
+  }
+}

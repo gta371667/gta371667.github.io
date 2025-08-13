@@ -1,0 +1,45 @@
+{
+  "minesRes": {
+    "jsonKey": "en手動調整",
+    "common": {
+      "appName": "Amazing Mines",
+      "confirm": "Confirm",
+      "cancel": "Cancel"
+    },
+    "main": {
+      "description": {
+        "title": "Game Description",
+        "content1": "Join in on the Amazing Mines fever with one of our most popular and beloved games! It is a grid-based gambling game of chance that players navigate the grid to reveal gems while avoiding bombs! ",
+        "content2": "This Mines betting game is played on a 5x5 grid in which players can flip the tiles over to show either a gem or bomb.Revealing gems increases payout multipliers and allows players to continue playing - choosing to pick additional tiles, a random tile or cash out. Revealing a bomb ends the round with the wager lost.",
+        "content3": "With the freedom to adjust the number of mines and cash out at any point of the game, the gambling experience offered by Amazing Mines is second to none at any online casino !",
+        "contentTitle4": "Gameplay",
+        "content5": "Players set their bet amount to play with during a round of Mines as well as the number of mines that exists in the field of play, ranging between 1-24. The number of mines set affects to multiplier paid out to players and controls the volatility of the gameplay. More mines in play lead to more opportunities for a round to end, but also leads to exciting gameplay and higher payouts.",
+        "content6": "The choice of setting the mines amount reflects the player's appetite for risk and the level of risk they are willing to burden in pursuit of profit and big payouts.",
+        "content7": "Once the bet amount and number of mines have been set, players can click any number of tiles during the betting round to reveal their contents. Hitting a mine will end the round. However, if a player continues to collect gems they can continue to play."
+      },
+      "bet": "Bet",
+      "autoSelect": "Pick random tiles",
+      "betAmount": "Bet Amount",
+      "betAmountHint": "Minimum {min}",
+      "halfBet": "½",
+      "doubleBet": "2x",
+      "betRangeError": {
+        "mustInteger": "Must be integer.",
+        "mustPositive": "This must be greater than 0.",
+        "mustLessThanBalance": "Can’t bet more than your balance！"
+      },
+      "bombCountTitle": "Mines",
+      "gemCountTitle": "Gems",
+      "settle": "Cashout",
+      "winProfit": "Profit on Win({multiplier}x)"
+    },
+    "asset": {
+      "cada": "ADA",
+      "cbtc": "BTC",
+      "ceth": "ETH",
+      "ch": "H Point",
+      "cusd": "USD",
+      "cusdt": "USDT"
+    }
+  }
+}
